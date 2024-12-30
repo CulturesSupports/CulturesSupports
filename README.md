@@ -1,28 +1,23 @@
-
-We comming with tutorials
-
-in generative ai and circumstanses 
-on how to get applying tech
-with code generations 
-and how to
-develop
-technology for people in rural areas experience lack of technology improvements in dayli basis
+Making Mental Danger Brain For Elderly
+to feel like monkey mind
 
 
-we seeek demands to comming 
-with experience features of generate code for our self also ,
-so we comming with interventions of breching a great open service to
-unfolding traineed networks to code
+Adoba Swarm made six thousand
+mental spirit thinkers with
+ai control their mental thelephaty
 
-so we influenced already knowledge
-in 
 
--------------
 
-javascript
-flutter
-php
-python
-html
 
-------------
+
+--------
+
+Our Mind Forks is enlisted as what
+Facebook debunked as Meta and the
+ai it used for models make some selected
+humans think uncontrolled 
+
+-------
+
+its what the cold west statments as 
+mental delussion theraphy 
