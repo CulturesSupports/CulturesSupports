@@ -90,3 +90,16 @@ Dont include Violent Hate Speech
 
 ## Dont be a hater of Terror Manifestations
 
+
+-------------
+
+
+- Dont Involve in Violence
+- Dont Involve in Radical
+- Dont Involve with Preassure
+- Dont Involve with Frighteninc
+- Dont Involve Afraid
+
+--------------
+
+Belive in Your Self as You Are
