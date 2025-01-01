@@ -75,8 +75,18 @@ Our Code Technology is Avaible on Lemanox7
 
 ----------
 
+Dont include Violent Hate Speech
+
+
+![image](https://github.com/user-attachments/assets/16fff749-ae4f-4a1e-afd9-b6c17073cbf7)
+
+
+------------
 
 ![image](https://github.com/user-attachments/assets/7a9bd452-b92c-4acb-8316-a3020c532943)
 
 
 -----------
+
+
+
