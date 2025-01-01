@@ -71,3 +71,21 @@ technology will avoid the stupid government criminals
 -------------------
 
 We Can not Hold You as Contact For our Technology
+
+----------
+
+You Must Understand the License is Not Priority for involving a Law or Never Can Become
+A Plain Sight Called Help From Our Self or Involve Bribing for Technology
+
+Do it involve payment, have you clearly dont used the technology or is in fact envovling with our agenda.
+
+- You Cant Leggimitate Run A Bribery With Constents of Marketing Tech librARY
+
+- THE NAME AND PROPERTY SHALL NEVER STAND BRIBES IN CHARGE OF SCAM REPORT OR ACT OF ATTACKING PROPERTY
+- YOU WILL FACE STRONG WARANTLY DAMAGE LIFE , BY DISRESPECTING PROPERTY
+- WE HIRE CRIMINAL PROFILING AGAINST YOU IF YOU COMMITING ACTING SUSPICIOUS IN ACTS OF TERROR OR PROCESSING
+  ILLCIT CLAIMS
+  - YOU CAN LOOSE ALL YOU HAVE IN LIFE IF YOUR PR SEND OUTSIDE THE PROPERTY
+
+
+-----------
