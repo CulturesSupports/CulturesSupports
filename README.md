@@ -68,4 +68,6 @@ its will never be need of laws or lawyer agenda or corrupt intervolvement
 technology will avoid the stupid government criminals
 
 
+-------------------
 
+We Can not Hold You as Contact For our Technology
