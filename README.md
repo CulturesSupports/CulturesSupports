@@ -12,9 +12,11 @@ science
 
 Our Code Technology is Avaible on Lemanox7
 
+## Profile Name
+##  Ollama2025 
 
-## Our Repository is on Ollama and our Models are here with trained special
-for enabling generative Ai
+- Technology is Advancing Protecting
+- Technology is for Generative Ai 
 
 
 ![image](https://github.com/user-attachments/assets/1ce7565e-bd03-457d-a3ab-ed832ab1cdfb)
