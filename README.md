@@ -11,11 +11,24 @@ science
 
 
 Our Code Technology is Avaible on Lemanox7
+------------
 
 ## Profile Name
 ##  Ollama2025 
 
-- Technology is Advancing Protecting
+---------------
+
+
+- Technology is Advancing Stages On Development
+
+- This Generates Our Technology and is Only The Skilled Technology for obtaining 
+Range of Great Tasks
+
+- Its Hindering Democratic issues
+- Its Hindering Making Illness in Code
+
+--------------
+  
 - Technology is for Generative Ai 
 - This Library is Special For Programming Ai
 - This is Making Coding For Technologies in Field of Ai
