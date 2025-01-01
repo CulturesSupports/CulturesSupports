@@ -23,10 +23,12 @@ in Life
 
 
 Our Code Technology is Avaible on Lemanox7
+
 ------------
 
 ## Profile Name
 ##  Ollama2025 
+
 
 ---------------
 
