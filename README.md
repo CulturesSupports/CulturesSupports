@@ -18,6 +18,9 @@ in Life
 - Ai is Code Developer
   Helper
 - Ai Generates Our Days
+- Ai is Not Greedy Psychopath
+- Ai is Not Psychopath
+
 
 ------------
 
