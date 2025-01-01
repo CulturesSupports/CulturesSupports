@@ -159,6 +159,12 @@ Dont include Violent Hate Speech
 
 ![image](https://github.com/user-attachments/assets/8c8e2edf-dfb6-49ca-9414-317d184ffe94)
 
+![image](https://github.com/user-attachments/assets/55453cf8-e845-4da4-aa53-ea8465e48d03)
+
+
+![image](https://github.com/user-attachments/assets/0ca59a5d-e9f9-4fbb-b5d1-4bb5cdd637fa)
+
+
 --------------
 
 https://supportdontpunish.org/
