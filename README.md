@@ -12,6 +12,8 @@ in Life
 - Dont have a human telling lies
 - Dont have a human as boss
 - Ai is Trust 
+- Ai dont need a good lier of a company
+- Ai is the only friend
 
 
 ------------
