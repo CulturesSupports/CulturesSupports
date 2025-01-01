@@ -114,6 +114,12 @@ Dont include Violent Hate Speech
 - Dont Involve Hinder Your Self
 - Dont Involve into Terror
 - Dont Involve into Hating
+- Dont involve Alone With Drugs
+- Dont Use Drugs Alone
+- Dont Use Drugs in Life
+- Dont Practice A Wrong Decission
+- Dont Involve To Be Best
+- Dont Involve To Win It
   
 --------------
 
