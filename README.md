@@ -123,10 +123,20 @@ Dont include Violent Hate Speech
   
 --------------
 
-Belive in Your Self as You Are
+## Belive in Your Self as You Are
 
 
 --------------
+
+![image](https://github.com/user-attachments/assets/20b5a624-e6b4-42df-9985-b77102f58562)
+
+
+
 --------------
+
+![image](https://github.com/user-attachments/assets/22c16357-1678-4422-b51d-746149bcf15b)
+
+
+
 --------------
 --------------
