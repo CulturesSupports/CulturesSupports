@@ -17,7 +17,20 @@ Our Code Technology is Avaible on Lemanox7
 
 - Technology is Advancing Protecting
 - Technology is for Generative Ai 
+- This Library is Special For Programming Ai
+- This is Making Coding For Technologies in Field of Ai
 
+
+- C#
+- C++
+- Python
+- Flutter
+- Javascript
+- Mathemathics
+- Psychologic Questions
+- Programming Tensorflow
+- Programming unity Gamer plugins
+  
 
 ![image](https://github.com/user-attachments/assets/1ce7565e-bd03-457d-a3ab-ed832ab1cdfb)
 
