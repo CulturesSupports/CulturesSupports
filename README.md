@@ -88,7 +88,6 @@ Dont include Violent Hate Speech
 
 -----------
 
-## Stopp Terror Manifestations
 
 
 
@@ -97,8 +96,15 @@ Dont include Violent Hate Speech
 
 ## Experience Art of Lights
 
+- Experience Nice Warm Lights
+- Experience Feeling Calm
+- Experience Art of Candles
+- Experience Warm Candles
+
 -------------
 
+
+## Stopp Terror Manifestations
 
 - Dont Involve in Violence
 - Dont Involve in Radical
