@@ -107,12 +107,14 @@ Dont include Violent Hate Speech
 ## Stopp Terror Manifestations
 
 - Dont Involve in Violence
-- Dont Involve in Radical
+- Dont Involve in Radical Practices
 - Dont Involve with Preassure
 - Dont Involve with FEAR
 - Dont Involve Afraid
 - Dont Involve Hinder Your Self
-
+- Dont Involve into Terror
+- Dont Involve into Hating
+  
 --------------
 
 Belive in Your Self as You Are
