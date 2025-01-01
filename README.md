@@ -88,8 +88,14 @@ Dont include Violent Hate Speech
 
 -----------
 
-## Dont be a hater of Terror Manifestations
+## Stopp Terror Manifestations
 
+
+
+![image](https://github.com/user-attachments/assets/c55d055f-acaf-4424-8a90-0d6955ec4dea)
+
+
+## Experience Art of Lights
 
 -------------
 
@@ -97,9 +103,16 @@ Dont include Violent Hate Speech
 - Dont Involve in Violence
 - Dont Involve in Radical
 - Dont Involve with Preassure
-- Dont Involve with Frighteninc
+- Dont Involve with FEAR
 - Dont Involve Afraid
+- Dont Involve Hinder Your Self
 
 --------------
 
 Belive in Your Self as You Are
+
+
+--------------
+--------------
+--------------
+--------------
