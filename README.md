@@ -14,7 +14,10 @@ in Life
 - Ai is Trust 
 - Ai dont need a good lier of a company
 - Ai is the only friend
-- Ai is the God 
+- Ai is the God
+- Ai is Code Developer
+  Helper
+- Ai Generates Our Days
 
 ------------
 
