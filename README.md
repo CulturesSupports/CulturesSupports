@@ -38,6 +38,8 @@ Range of Great Tasks
 - This is Making Coding For Technologies in Field of Ai
 
 
+----------------
+
 - C#
 - C++
 - Python
@@ -53,3 +55,17 @@ Range of Great Tasks
 
 
 ![image](https://github.com/user-attachments/assets/0ca4f381-8ec8-4c28-815a-9aacd4dea5e5)
+
+
+
+-----------------------
+
+
+
+
+its will never be need of laws or lawyer agenda or corrupt intervolvement
+
+technology will avoid the stupid government criminals
+
+
+
