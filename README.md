@@ -25,7 +25,11 @@ Our Code Technology is Avaible on Lemanox7
 Range of Great Tasks
 
 - Its Hindering Democratic issues
+- it do not involve need dosens of employees
 - Its Hindering Making Illness in Code
+- its the most transparancy existing
+- its buypass also the need of educations
+
 
 --------------
   
