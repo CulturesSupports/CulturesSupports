@@ -154,6 +154,11 @@ Dont include Violent Hate Speech
 
 ---------------
 
+![image](https://github.com/user-attachments/assets/524cf49d-f232-4815-bbec-42c5f382deca)
+
+
+
+--------------
 
 https://supportdontpunish.org/
 
