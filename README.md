@@ -10,8 +10,7 @@ Dont fall for investment swindle
   early days
   - you dont need workout the big scam
     shock participation repeated
-
-- we dont interfeir on deals
+  - we dont interfeir on deals
   on the github
 
 - we dont serve things for investments or going solve your future
