@@ -26,6 +26,9 @@ good partners and the same clueless scams needs offcourse attention
 you dont asked for
 
 
+- we dont serve for observing you on bias mather
+- a investment return or investment promise will not happend
+
 -----------
 
 run ai apps
