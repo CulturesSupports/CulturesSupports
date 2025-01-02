@@ -6,6 +6,13 @@ Dont fall for investment swindle
 - We dont advice going
   into investments
 
+
+   - we dont send you lurking superhero CEO fees for bee a representation dont having a cv registrated here
+ 
+   - we dont comming become part of a big oppturn rigged challenge free investment
+ 
+   - We dont comming spectate your drunk party investment skills
+
   - we dont comming present
   you a big cpa awarded special
   diplom glory education scheme
