@@ -18,6 +18,22 @@ for setting you into work hours
      photographing secrets things around organisation
     
    - we dont setting up scams for spionage on private life
+
+- we dont comming protecting
+  you with a special security company
+  camera cause
+
+  - we dont comming with a special security safe company miles away
+    and have special skill to show up
+    and show special safety in
+    a hour or when phone contact suddently happend
+
+    - we dont claim you a safe future when natural disaster can happend annywhere
+    - we dont become the best hms alone and have claims of survive anything
+   
+
+--------------------
+
    - your phone cam releases maybe to mutch photos in uncarefull categories
      
 
