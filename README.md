@@ -12,6 +12,8 @@ Dont fall for investment swindle
 - we dont interfeir on deals
   on the github
 
+- we dont serve things for investments or going solve your future
+
 -----------
 
 run ai apps
