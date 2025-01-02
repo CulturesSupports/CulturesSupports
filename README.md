@@ -14,6 +14,13 @@ Dont fall for investment swindle
 
 - we dont serve things for investments or going solve your future
 
+
+- Be carefull with managing your
+  profile information
+
+
+  - fraudster thrives on not showing up and act as somebody special guru with a smart plan you did not proof
+
 -----------
 
 run ai apps
