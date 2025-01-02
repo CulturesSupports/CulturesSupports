@@ -36,14 +36,39 @@ for setting you into work hours
 
    - your phone cam releases maybe to mutch photos in uncarefull categories
      
+-------------------
 
    - we dont comming become part of a big oppturn rigged challenge free investment
  
    - We dont comming spectate your drunk party investment skills
 
+----------------
+
   - we dont comming present
   you a big cpa awarded special
   diplom glory education scheme
+
+
+- we dont commisioning a diplom to be
+  golde hero to win many funds and run many kinds of
+
+  - we dont comming showing you have skills your know your having
+ 
+  - we dont comming showing your educated and can stay on workplace awaiting the big education mystery
+ 
+  - we dont applause for spreading around community techs and claims spectacular inventions need a rollercoaster trip around where your
+  shocked cant stopp the spread your self
+
+- we dont applause you for 3d printing madness skills and wide spreading desperate with
+  MLM Schemes
+
+  - We Dont Applause You For 
+tshirt pressing any bad motives and
+preassure stories around
+
+- we dont applause you for staying agressive into MLM
+
+----------------
 
   - we dont come with the mystery 1200 workforce schemes where
   the boss waiting on you
