@@ -12,8 +12,7 @@ Dont fall for investment swindle
     shock participation repeated
   - we dont interfeir on deals
   on the github
-
-- we dont serve things for investments or going solve your future
+  - we dont serve things for investments or going solve your future
 
 
 - Be carefull with managing your
