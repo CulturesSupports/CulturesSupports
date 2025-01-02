@@ -14,7 +14,10 @@ media and dont committing transperancy
 
    - We dont comming with the special friends knowing you and plays good guy
    - We dont applause youre a friend running around a got a skill
+    
    - we dont setting up scams for spionage on private life
+   - your phone cam releases maybe to mutch photos in uncarefull categories
+     
 
    - we dont comming become part of a big oppturn rigged challenge free investment
  
