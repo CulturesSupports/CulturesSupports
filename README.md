@@ -2,6 +2,16 @@
 
 Dont fall for investment swindle
 
+
+- We dont advice going
+  into investments
+
+- crime on exhanges is done sense
+  early days
+
+- we dont interfeir on deals
+  on the github
+
 -----------
 
 run ai apps
