@@ -8,6 +8,8 @@ Dont fall for investment swindle
 
 - crime on exhanges is done sense
   early days
+  - you dont need workout the big scam
+    shock participation repeated
 
 - we dont interfeir on deals
   on the github
