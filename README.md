@@ -24,10 +24,8 @@ Dont fall for investment swindle
  - the scams have the same ritual , they act uppon its they have been
 good partners and the same clueless scams needs offcourse attention
 you dont asked for
-
-
-- we dont serve for observing you on bias mather
-- a investment return or investment promise will not happend
+    - we dont serve for observing you on bias mather
+    - a investment return or investment promise will not happend
 
 -----------
 
