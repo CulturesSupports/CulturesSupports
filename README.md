@@ -69,9 +69,13 @@ what github search queries
 - we have no purpose of seeking a future where your guided into property
 - we dont plan to accomplish be the magic worker company status
 
-- stay respectfull to not working to muct
-- use only pc and mobile carefull low half hours 
-
+- stay respectfull to not working to mutch or manny hours
+- use only pc and mobile carefull low half hours
+- we dont advice you on work
+- we dont advise you to stress
+- we dont advise you to preassure
+  or pushing reaching something
+  
 -----------
 
 run ai apps
