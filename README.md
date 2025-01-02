@@ -8,7 +8,14 @@ Dont fall for investment swindle
 
 
    - we dont send you lurking superhero CEO fees for bee a representation dont having a cv registrated here
- 
+
+    - we dont come around celebrating your using moneys on social
+media and dont committing transperancy
+
+   - We dont comming with the special friends knowing you and plays good guy
+   - We dont applause youre a friend running around a got a skill
+   - we dont setting up scams for spionage on private life
+
    - we dont comming become part of a big oppturn rigged challenge free investment
  
    - We dont comming spectate your drunk party investment skills
