@@ -19,6 +19,9 @@ Dont fall for investment swindle
 
       - you should sleep more often
 
+      - we dont come into your
+        life as the special skilled cross border diplomat
+
 - crime on exhanges is done sense
   early days
   - you dont need workout the big scam
