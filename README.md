@@ -22,7 +22,7 @@ Dont fall for investment swindle
   - fraudster thrives on not showing up and act as somebody special guru with a smart plan you did not proof
 
  - the scams have the same ritual , they act uppon its they have been
-good partners and the same clueless scams needs offcoure attention
+good partners and the same clueless scams needs offcourse attention
 you dont asked for
 
 
