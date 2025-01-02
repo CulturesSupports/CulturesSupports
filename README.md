@@ -14,7 +14,9 @@ Dont fall for investment swindle
   the boss waiting on you
 
    - we dont send you into bogus labour workforce rings with low fee attractive work schemes
+      
        - we dont play big guys for a reason just to fullfill your dreams
+
       - you should sleep more often
 
 - crime on exhanges is done sense
