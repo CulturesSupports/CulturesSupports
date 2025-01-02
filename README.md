@@ -1,9 +1,14 @@
 
+-----------
+
+-----------
+
+-----------
+
+-----------
 
 
-
-Here are some ideas to get you started:
-
+-----------
 
 run ai apps
 
