@@ -62,6 +62,18 @@ you dont asked for
 
 -----------
 
+- we dont comming with optimism
+- we dont seek other things than
+what github search queries
+- we cant hack you or is interested in operate your privacy
+- we have no purpose of seeking a future where your guided into property
+- we dont plan to accomplish be the magic worker company status
+
+- stay respectfull to not working to muct
+- use only pc and mobile carefull low half hours 
+
+-----------
+
 run ai apps
 
 https://huggingface.co/spaces
