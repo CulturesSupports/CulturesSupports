@@ -9,8 +9,10 @@ Dont fall for investment swindle
        - we dont comming present
   you a big cpa awarded special
   diplom glory education scheme
-       - we dont come with the mystery 1200 workforce schemes where
+
+  - we dont come with the mystery 1200 workforce schemes where
   the boss waiting on you
+
    - we dont send you into bogus labour workforce rings with low fee attractive work schemes
        - we dont play big guys for a reason just to fullfill your dreams
       - you should sleep more often
