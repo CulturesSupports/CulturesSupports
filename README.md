@@ -13,7 +13,9 @@ Dont fall for investment swindle
 media and dont committing transperancy
 
    - We dont comming with the special friends knowing you and plays good guy
-   - We dont applause youre a friend running around a got a skill
+for setting you into work hours
+    - We dont applause youre a friend running around a got a skill of
+     photographing secrets things around organisation
     
    - we dont setting up scams for spionage on private life
    - your phone cam releases maybe to mutch photos in uncarefull categories
