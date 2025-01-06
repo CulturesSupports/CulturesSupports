@@ -66,7 +66,7 @@ https://copilot.microsoft.com/
 --------------------
 
 
-##  Build Github Yanl / Actions With Microsoft Copilot
+##  Build Github .Yaml Files / Actions Files With Microsoft Copilot
 
 https://copilot.microsoft.com/chats
 
