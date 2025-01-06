@@ -1,6 +1,6 @@
 > run local router from cloud
 and get home speeds for 1 gigabit
-with google cloud
+with google cloud 
 
 > config virtual cloud host as home
 router and dont need home fiber
