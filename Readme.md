@@ -26,11 +26,11 @@
 
 
 
-## Run Ai Apps Localy 
+### Run Ai Apps Localy 
 
 https://huggingface.co/spaces
 
-## Run Ollama Local Machine
+### Run Ollama Local Machine
 
 https://ollama.com/
 
