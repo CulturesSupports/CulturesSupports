@@ -26,16 +26,16 @@
 
 
 
-run ai apps
+## Run Ai Apps Localy 
 
 https://huggingface.co/spaces
 
-run ollama
+## Run Ollama Local Machine
 
 https://ollama.com/
 
 
-generate code with ai
+### Generate Code With Ai
 
 https://llamacoder.together.ai/
 
