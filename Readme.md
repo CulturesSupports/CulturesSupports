@@ -82,3 +82,13 @@ build yaml files for github actions
 - build scripts of css 
 
 ---------------
+
+```
+
+Run Apps With Generate Text Prompts into Microsoft Copilot
+
+and copy generated code and paste into github from Microsoft Copilot Chat Website
+
+```
+
+--------------
