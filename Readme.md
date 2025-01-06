@@ -148,7 +148,7 @@ and copy generated code and paste into github from Microsoft Copilot Chat Websit
 - Generate Apps With Generative Ai
 - Develop Android Apps in Google Gemini
 
-https://gemini.google.com/app?hl=en-GB
+https://gemini.google.com/app
 
 
 
