@@ -29,5 +29,12 @@ https://copilot.microsoft.com/chats
 
 - Use it For Science in Github
 
+
+- use it with a registered microsoft email    @hotmail.com account
+  
+
+- use it free with desktop browser and hotmail and login to microsoft
+- use then github copilot free 
+
 --------------------
 ---------------
