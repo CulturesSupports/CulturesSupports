@@ -92,10 +92,10 @@ and copy generated code and paste into github from Microsoft Copilot Chat Websit
 
 ```
 
---------------
 
 
------------------------
+
+
 -----------------------
 -----------------------
 //////////////////////
@@ -105,7 +105,7 @@ and copy generated code and paste into github from Microsoft Copilot Chat Websit
 //////
 ----------------------
 ----------------------
-----------------------
+
 
 
 # Gooogle Gemini 
@@ -125,7 +125,7 @@ https://gemini.google.com/app?hl=en-GB
 
 
 
------------------------
+
 -----------------------
 -----------------------
 ////////
@@ -135,7 +135,7 @@ https://gemini.google.com/app?hl=en-GB
 /////////////////////////
 ----------------------
 ----------------------
-----------------------
+
 
 
 
