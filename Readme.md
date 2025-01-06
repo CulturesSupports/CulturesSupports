@@ -48,7 +48,6 @@ https://llamacoder.together.ai/
 - Ask Ai To Generate Files in Repository
 - Ask Ai to Generate Html Page
 
-https://copilot.microsoft.com/chats
 
 
 https://copilot.microsoft.com/
@@ -65,6 +64,10 @@ https://copilot.microsoft.com/
 - use it to build github apps free
 
 --------------------
+
+
+https://copilot.microsoft.com/chats
+
 
 build yaml files for github actions
 
