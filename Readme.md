@@ -73,7 +73,7 @@ https://llamacoder.together.ai/
 
 
 
-## Enable Build Github Apps With Microsoft Copilot
+###  Build Github Apps With Microsoft Copilot Chat
 
 - Ask Ai To Generate Files For Github Actions 
 - Ask Ai To Generate Files in Repository
@@ -97,7 +97,7 @@ https://copilot.microsoft.com/
 --------------------
 
 
-##  Build Github .Yaml Files / Actions Files With Microsoft Copilot
+###  Build Github .Yaml Files / Actions Files With Microsoft Copilot
 
 https://copilot.microsoft.com/chats
 
@@ -141,7 +141,7 @@ and copy generated code and paste into github from Microsoft Copilot Chat Websit
 # Gooogle Gemini 
 
 
-## Generate Code With Ai
+### Generate Code With Ai
 
 
 - Generate Apps With Google Gemini
