@@ -39,4 +39,15 @@ https://copilot.microsoft.com/chats
 - use it to build github apps free
 
 --------------------
+
+build yaml files for github actions
+
+- build scripts of javascripts
+- build scripts of fluttter
+- build scripts of java
+- build scripts of php
+- build scripts of html
+- build scripts of vue js
+- build scripts of css 
+
 ---------------
