@@ -51,6 +51,8 @@ https://llamacoder.together.ai/
 https://copilot.microsoft.com/chats
 
 
+https://copilot.microsoft.com/
+
 - Use it For Science in Github
 
 
