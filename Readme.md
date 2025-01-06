@@ -119,3 +119,23 @@ and copy generated code and paste into github from Microsoft Copilot Chat Websit
 - Develop Android Apps in Google Gemini
 
 https://gemini.google.com/app?hl=en-GB
+
+
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
+/////////////////////
+----------------------
+/////////////////////
+----------------------
+/////////////////////
+----------------------
+----------------------
+----------------------
+
+
+
