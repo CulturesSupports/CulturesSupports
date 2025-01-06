@@ -36,5 +36,7 @@ https://copilot.microsoft.com/chats
 - use it free with desktop browser and hotmail and login to microsoft
 - use then github copilot free 
 
+- use it to build github apps free
+
 --------------------
 ---------------
