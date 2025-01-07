@@ -20,6 +20,7 @@ both file have 8kb big size
 it means many of torrent seeders will download and seed it with click on it....
 
 - seeders with 3 mbps will download it in a click second
+- we have capasity to seed it for a week
 
 its a joke project of feeding the torrent community with a none copyright claim torrent file
  
