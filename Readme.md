@@ -33,7 +33,7 @@ its a joke project of feeding the torrent community with a none copyright claim 
 <p> We have allocated some seed capacity for enable upload the file and seed it </p>
 
 
-  its 8kb out of 80 Mbps
+  its capasity of seeding is  8kb out of 80 Mbps
 
   - we are hoping on POWERUSER 🌟 status
 
