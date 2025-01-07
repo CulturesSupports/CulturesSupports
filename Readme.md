@@ -38,11 +38,6 @@ its a joke project of feeding the torrent community with a none copyright claim 
   - we are hoping on POWERUSER 🌟 status 
 -----------------------
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="uTorrent Sharing" src="https://codepen.io/culturesupport/embed/qEWpwVo?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/culturesupport/pen/qEWpwVo">
-  uTorrent Sharing</a> by Culture.Support (<a href="https://codepen.io/culturesupport">@culturesupport</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
 
 
 
