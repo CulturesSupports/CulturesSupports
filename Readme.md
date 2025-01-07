@@ -15,6 +15,11 @@ https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A
 
 its a 8kb html website we made as starting torrent work in 2025 with seeding out a copyright free torrent
 
+both file have 8kb big size 
+
+it means many of torrent seeders will download and seed it with click on it....
+
+- seeders with 3 mbps will download it in a click second
 
 its a joke project of feeding the torrent community with a none copyright claim torrent file
  
