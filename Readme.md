@@ -35,7 +35,13 @@ its a joke project of feeding the torrent community with a none copyright claim 
 
   its 8kb out of 80 Mbps
 
-  - we are hoping on POWERUSER 🌟 status 
+  - we are hoping on POWERUSER 🌟 status
+
+
+![image](https://github.com/user-attachments/assets/7d2a773b-ab69-4639-947a-3c40f367b8ae)
+
+
+
 -----------------------
 
 
