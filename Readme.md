@@ -30,7 +30,7 @@ its a joke project of feeding the torrent community with a none copyright claim 
 
 <img width="786" alt="Share Torrent Capacity" src="https://github.com/user-attachments/assets/a29df7a5-9d93-4188-9a33-0ca84d548546" />
 
-
+<p> We have allocated some seed capacity for enable upload the file and seed it </p>
 
  
 -----------------------
