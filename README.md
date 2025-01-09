@@ -7,9 +7,7 @@ This is a node.js chat application powered by SockJS and Express that provides t
 ![Chat Preview](http://i.imgur.com/lgRe8z4.png)
 
 ---
-## Buy me a coffee
 
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
 
 ---
