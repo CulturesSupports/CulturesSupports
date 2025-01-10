@@ -17,7 +17,7 @@ it generates random strings for 9 - 55 strings
 - numbers
 
 
-### Random  
+### Random String Password 
 
 ```
 
