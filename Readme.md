@@ -39,4 +39,4 @@ simply safe guarded Phising free password generator with mission to safely and s
 
 
 
-<img src="https://via.placeholder.com/400](https://github.com/user-attachments/assets/ca130389-7497-48b1-b838-24aa78aee620" alt="Example Image" height="400px" width="400px">
+<img src="https://github.com/user-attachments/assets/ca130389-7497-48b1-b838-24aa78aee620" alt="Example Image" height="400px" width="400px">
