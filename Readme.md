@@ -17,7 +17,17 @@ it generates random strings for 9 - 55 strings
 - numbers
 
 
-### Random String Password 
+### Random String Password initial Password Keys
+
+- No Ads on Page
+- No Phising 
+- No Popup Phising
+
+```
+
+simply safe guarded Phising free password generator with mission to safely and safest make passwords
+
+```
 
 ```
 
