@@ -19,6 +19,13 @@ it generates random strings for 9 - 55 strings
 
 ### Random String Password initial Password Keys
 
+
+```
+
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#@!%&()/
+
+```
+
 - No Ads on Page
 - No Phising 
 - No Popup Phising
@@ -29,10 +36,6 @@ simply safe guarded Phising free password generator with mission to safely and s
 
 ```
 
-```
-
-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#@!%&()/
-```
 
 
 
