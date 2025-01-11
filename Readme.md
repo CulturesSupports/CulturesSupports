@@ -58,11 +58,17 @@
 
 -------------------------
 
-localhost and 127.0.0.1 both refer to the local machine, commonly used in networking to access services running on your own device. By default, localhost points to 127.0.0.1, which is the loopback IP address. Here's a brief overview:
+
 
 ### What is `localhost`?
 
 - **localhost** is a hostname that means this computer. It's used to access the network services running on the host machine.
+
+
+
+- localhost and 127.0.0.1 both refer to the local machine,
+commonly used in networking to access services running on your own device.
+By default, localhost points to 127.0.0.1, which is the loopback IP address. Here's a brief overview:
 
 ### What is `127.0.0.1`?
 
