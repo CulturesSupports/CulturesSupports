@@ -1,6 +1,6 @@
 
 
-
+### Commands To Run in Mac Os Terminal
 
 ------------------
 
