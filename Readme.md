@@ -7,7 +7,7 @@
 <img src="https://media1.tenor.com/images/8a3555370503dea50b044cd83437029d/tenor.gif" alt="Hacker" width="300" height="200">
 
 
-<img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" alt="Hacker" width="300" height="200">
+
 
 ## About Me
 
