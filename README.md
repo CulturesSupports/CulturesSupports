@@ -121,7 +121,7 @@ Anything specific you want to do with these elevated privileges? Just give me a 
 ---------------------
 
 
-# Display All Hosts Open on Local Computer
+# Display All Hosts listing open ports on Local Computer
 
 
 Absolutely, `lsof` is great for listing open ports. To display all open ports, you can use the following command:
