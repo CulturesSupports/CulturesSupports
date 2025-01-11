@@ -4,7 +4,7 @@
 
 <img
   src="https://www.bing.com/th/id/OGC.0c0123bb045a4906da6a75e7e96620fd?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fYPhs6YoPXEJgFxERoG%2fgiphy.gif](https://www.bing.com/images/search?view=detailV2&ccid=2v3%2b%2bAH%2f&id=9C7D75C70C826195357DD5FE10F64A3480DEF022&thid=OIP.2v3--AH_994vnv6u91Ed3gHaEK&mediaurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhacker-gif-5.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dafdfef801fff7de2f9efeaef7511dde%3frik%3dIvDegDRK9hD%252b1Q%26pid%3dImgRaw%26r%3d0&exph=270&expw=480&q=hacker+profile+image+generator+gif&simid=608015671846335741&FORM=IRPRST&ck=8CB0ED4CB5717F7EE27EC85C53710FE3&selectedIndex=4&itb=0"
-  alt="The Hacker"
+
   width="400"
   height="341" />
 
