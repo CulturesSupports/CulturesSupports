@@ -17,9 +17,8 @@
 - Enabler For Own Works
 
 ### Hacker Status 🏴‍☠️
-- **Programming Languages:** Python, JavaScript, C++
-- **Cybersecurity Skills:** Penetration Testing, Vulnerability Assessment, Network Security
-- **Tools & Technologies:** Metasploit, Wireshark, Burp Suite, Generative AI
+
+- Enabler of The Finder 
 
 
 ### Instructions 📜
