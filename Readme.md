@@ -89,5 +89,5 @@ Here's a simple example of how you might run a local server and access it:
 
 Now, you can access it by going to `http://localhost:8000` or `http://127.0.0.1:8000` on your browser.
 
-Feel free to ask if you have more questions about networking or local server setup! 😊
+Exposure Hacks For Local Host
 
