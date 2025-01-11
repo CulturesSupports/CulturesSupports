@@ -6,7 +6,7 @@ We Made A Password Generator App here
 https://culturessupports.github.io/PassWordGenetic/
 
 
-it generates random strings for 9 - 55 strings 
+it generates random strings for 10 - 128 strings 
 
 
 
