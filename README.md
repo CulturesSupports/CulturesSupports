@@ -156,6 +156,14 @@ Would you like assistance with anything else related to networking or `lsof` com
 ------------------------
 ------------------------
 
+
+
+
+<img src="https://th.bing.com/th/id/OIP.eIHG4Pqm5WO96614mBIbPAHaEA?w=305&h=180&c=7&r=0&o=5&dpr=2&pid=1.7
+" alt="sysctl" width="500" height="600">
+
+
+
 # Run `sysctl` and View All Kernel Parameters
 
 **`sysctl`** is a powerful command-line tool in macOS that allows you to:
