@@ -45,5 +45,6 @@ Stay safe and always be vigilant about your cybersecurity!
 
 ` Your Tracking Your Crisis `
 
+<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif](https://www.bing.com/images/search?view=detailV2&ccid=qMMdN1iI&id=FBA7CB4E856A15468BF55FD15D574CD1A3E3C2CD&thid=OIP.qMMdN1iIPmJtZiBi5Y9JwQHaHa&mediaurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2f5q3NyUvgt1w9unrLJ9%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8c31d3758883e626d662062e58f49c1%3frik%3dzcLjo9FMV13RXw%26pid%3dImgRaw%26r%3d0&exph=500&expw=500&q=time+to+tal.gif&simid=608011222237854719&FORM=IRPRST&ck=C96F11757210D7CD19C03B3713BFECE7&selectedIndex=26&itb=0" alt="Oppdøl" width="500" height="auto">
 
-<img src="https://www.bing.com/th/id/OGC.8b51d101ed4237f42b79a16e679f9b39?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f8b%2f51%2fd1%2f8b51d101ed4237f42b79a16e679f9b39.gif" alt="Oppdøl" width="500" height="auto">
+
