@@ -1,19 +1,16 @@
 # Hacker Profile 💻🕵️‍♂️
 
 ## About Me
-I'm an enthusiastic hacker with a deep passion for coding, cybersecurity, 
-and contributing to open-source projects. 
-My journey is driven by curiosity and the pursuit of knowledge in the realm of technology.
+
+
+- Member Status 🏴‍☠️
+- Hacker Skills
+- Enabler For Own Works
 
 ### Hacker Status 🏴‍☠️
 - **Programming Languages:** Python, JavaScript, C++
 - **Cybersecurity Skills:** Penetration Testing, Vulnerability Assessment, Network Security
 - **Tools & Technologies:** Metasploit, Wireshark, Burp Suite, Generative AI
-
-### Projects 🚀
-
-Here is my Hacker Status
-
 
 
 ### Instructions 📜
