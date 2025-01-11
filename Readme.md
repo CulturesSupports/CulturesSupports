@@ -346,7 +346,11 @@ grep "GET /desired-page-url" /var/log/httpd/access_log
 <img src="https://cdn.wallpapersafari.com/92/10/iHMTch.gif" alt="Hacker" width="300" height="200">
 
 
+### WE REENIGINEERING INFORMATION TO DESTROY LIFEST TO IT FULLEST POTENTIAL AGRESSIONS
+
 -----------------------------------------------
+
+### `"We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us ”`
 -----------------------------------------------
 -----------------------------------------------
 -----------------------------------------------
@@ -357,4 +361,4 @@ grep "GET /desired-page-url" /var/log/httpd/access_log
 
 
 
-# WE REENIGINEERING INFORMATION TO DESTROY LIFEST TO IT FULLEST POTENTIAL AGRESSIONS
+
