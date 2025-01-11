@@ -20,7 +20,18 @@
 
 - Enabler of The Finder 
 - The Notorious Evidence Tracker
+
+-------------------
+  
 - The Finder of Local Spies
+
+  --------------
+
+- The Finder of What Police Doing
+- The Finder of What Criminals Doing
+- The Finder of What Happends
+
+------------------
 
 ### Instructions 📜
 1. Clone any of repositories on github :
