@@ -46,4 +46,4 @@ Stay safe and always be vigilant about your cybersecurity!
 ` Your Tracking Your Crisis `
 
 
-<img src="https://cdn.geekboots.com/geek/progress-bar-screenshot-1654252339422.gif" alt="Oppdøl" width="500" height="auto">
+<img src="https://www.bing.com/th/id/OGC.8b51d101ed4237f42b79a16e679f9b39?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f8b%2f51%2fd1%2f8b51d101ed4237f42b79a16e679f9b39.gif" alt="Oppdøl" width="500" height="auto">
