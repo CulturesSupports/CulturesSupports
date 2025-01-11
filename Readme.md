@@ -37,4 +37,4 @@ Stay safe and always be vigilant about your cybersecurity!
 
 
 
-<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif" alt="Oppdøl" width="500" height="600">
+<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif" alt="Oppdøl" width="500" height="300">
