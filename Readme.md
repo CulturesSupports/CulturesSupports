@@ -350,7 +350,7 @@ grep "GET /desired-page-url" /var/log/httpd/access_log
 
 -----------------------------------------------
 
-### `"We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us ”`
+`" We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us ”`
 -----------------------------------------------
 -----------------------------------------------
 -----------------------------------------------
