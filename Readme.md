@@ -29,8 +29,8 @@ Here is my Hacker Status
 
 ### Roles & Honors 🥇
 - **Top Contributor:** Recognized as a top contributor in various open-source communities.
-- **Certified Ethical Hacker:** Certified by [Organisation Name] CulturesSupports.
-- **GitHub Badges:**
+- **Certified Ethical Hacker Badges For Commiting Work in Organisation
+
     - ![Code Ninja](https://img.shields.io/badge/Code-Ninja-000000?style=flat&logo=github)
     - ![Open Source Champion](https://img.shields.io/badge/Open%20Source-Champion-0c9c0e?style=flat&logo=github)
     - ![Security Expert](https://img.shields.io/badge/Security-Expert-ff6633?style=flat&logo=github)
