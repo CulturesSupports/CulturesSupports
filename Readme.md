@@ -199,3 +199,79 @@ The IP address `0.0.0.0` is a special case in networking with distinct meanings 
 |--------------|------------------------------------|----------------------------------------------------|
 | `0.0.0.0`    | Wildcard or default address        | Binding applications to all IPs, default routing, unassigned addresses |
 
+
+
+
+
+
+
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+
+
+
+# SubNet A Class A - D Network
+
+
+Configuring subnets from Class A to Class D involves understanding the different classes and how IP addresses are distributed. Here's a brief overview:
+
+### Class A Subnet
+- **Range:** 1.0.0.0 to 126.0.0.0
+- **Default Subnet Mask:** 255.0.0.0 (`/8`)
+- **Hosts per Subnet:** Approximately 16 million
+
+### Class B Subnet
+- **Range:** 128.0.0.0 to 191.255.0.0
+- **Default Subnet Mask:** 255.255.0.0 (`/16`)
+- **Hosts per Subnet:** Approximately 65,000
+
+### Class C Subnet
+- **Range:** 192.0.0.0 to 223.255.255.0
+- **Default Subnet Mask:** 255.255.255.0 (`/24`)
+- **Hosts per Subnet:** 254
+
+### Class D Subnet
+- **Range:** 224.0.0.0 to 239.255.255.255
+- **Usage:** Reserved for multicast groups, not used for standard host addressing.
+
+### Example Subnet Configuration for Class B
+
+#### Network: `172.16.0.0/16`
+To create and configure subnets, you might divide it into smaller subnetworks:
+
+1. **Original Subnet:** `172.16.0.0/16`
+2. **Subnet Mask:** `255.255.255.0 (/24)`
+3. **Number of Subnets Created:** 256 
+4. **Hosts per Subnet:** 254
+
+**Subnets:**
+- `172.16.0.0/24`
+- `172.16.1.0/24`
+- ...
+- `172.16.255.0/24`
+
+Each subnet can host 254 devices.
+
+### Example Commands
+
+**Linux:**
+```shell
+ifconfig eth0 172.16.0.1 netmask 255.255.255.0
+route add -net 172.16.1.0 netmask 255.255.255.0 gw 172.16.0.1
+```
+
+**Windows:**
+```cmd
+netsh interface ip set address name="Local Area Connection" static 172.16.0.1 255.255.255.0
+route -p add 172.16.1.0 mask 255.255.255.0 172.16.0.1
+```
+
+This configuration demonstrates how to set up Class B subnets on Linux and Windows systems.
+
+Let me know if you want more detailed instructions or specific configurations! 😊
+
