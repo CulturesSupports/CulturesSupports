@@ -1,4 +1,6 @@
-# Hacker Profile 💻🕵️‍♂️
+# Hacker Profile 
+
+https://www.bing.com/th/id/OGC.0c0123bb045a4906da6a75e7e96620fd?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fYPhs6YoPXEJgFxERoG%2fgiphy.gif&ehk=isgDhzAvPUBBYyKvrThzLrNQg20E2kfJXvF5HyTCWGY%3d
 
 ## About Me
 
