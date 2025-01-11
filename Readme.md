@@ -58,7 +58,7 @@
 
 -------------------------
 
-
+# Local Host `127.0.0.1`
 
 ### What is `localhost`?
 
@@ -97,6 +97,7 @@ Exposure Hacks For Local Host
 
 --------------------
 
+# Local Host `127.0.0.0`
 
 The term `localhost` and the IP address `127.0.0.0` both relate to local networking, but they have different purposes. 
 
