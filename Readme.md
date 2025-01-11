@@ -46,4 +46,4 @@ Stay safe and always be vigilant about your cybersecurity!
 ` Your Tracking Your Crisis `
 
 
-<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif](https://cdn.geekboots.com/geek/progress-bar-screenshot-1654252339422.gif" alt="Oppdøl" width="500" height="auto">
+<img src="https://cdn.geekboots.com/geek/progress-bar-screenshot-1654252339422.gif" alt="Oppdøl" width="500" height="auto">
