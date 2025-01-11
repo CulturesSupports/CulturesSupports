@@ -37,7 +37,7 @@ Stay safe and always be vigilant about your cybersecurity!
 
 
 
-<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif" alt="Oppdøl" width="500" height="auto">
+<img src="https://media.tenor.com/df9UbzIlgpQAAAAC/viet-nam-flag-flag.gif" alt="Eide" width="500" height="auto">
 
 
 
@@ -45,7 +45,7 @@ Stay safe and always be vigilant about your cybersecurity!
 
 ` Your Tracking Your Crisis `
 
-<img src="https://media.giphy.com/media/3oz8xBmTULwn1QSNgI/giphy.gif" alt="Ort" width="500" height="auto">
+<img src="https://media.giphy.com/media/3oz8xBmTULwn1QSNgI/giphy.gif" alt="Oppdøl" width="500" height="auto">
 
 
 
@@ -56,14 +56,18 @@ Stay safe and always be vigilant about your cybersecurity!
 
 ` Your Tracking Your Crisis `
 
-<img src="https://cdn.dribbble.com/users/319192/screenshots/1551362/2-and-a-half-hours.gif" alt="Ort" width="500" height="auto">
+<img src="https://cdn.dribbble.com/users/319192/screenshots/1551362/2-and-a-half-hours.gif" alt="Gjemnes" width="500" height="auto">
 
 
 
 
-<img src="https://i.pinimg.com/originals/8b/51/d1/8b51d101ed4237f42b79a16e679f9b39.gif" alt="Ort" width="500" height="auto">
+<img src="https://i.pinimg.com/originals/8b/51/d1/8b51d101ed4237f42b79a16e679f9b39.gif" alt="Averøya" width="500" height="auto">
 
 
 
 
+
+
+
+<img src="https://i.pinimg.com/originals/3f/82/40/3f8240fa1d16d0de6d4e7510b43b37ba.gif" alt="Kristiansund" width="500" height="auto">
 
