@@ -92,6 +92,10 @@ To gain superuser (root) privileges on macOS, you need to use the `sudo` command
 
 If you need an entire terminal session with root privileges, run:
    
+  
+# Run Root Priveldges in Terminal
+   
+   
    ```bash
    sudo -s
    ```
