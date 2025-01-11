@@ -273,5 +273,55 @@ route -p add 172.16.1.0 mask 255.255.255.0 172.16.0.1
 
 This configuration demonstrates how to set up Class B subnets on Linux and Windows systems.
 
-Let me know if you want more detailed instructions or specific configurations! 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------
+
+
+
+
+# Finding People and Hackers Visiting Websites
+
+
+To track web visitors and log their URL visits, you'll typically use your web server's log files. These log files capture detailed information about each request made to your site. Here's a summary of how you can achieve this:
+
+### Web Server Logs
+1. **Log File Location:** Locate your web server log files. Common locations include `/var/log/httpd/` (Apache) or `C:\inetpub\logs\LogFiles\` (IIS).
+2. **Log File Format:** HTTP servers like Apache and Nginx create access logs which capture details such as the IP address, timestamp, request method, requested URL, HTTP status code, and user agent.
+
+### Log Analysis Tools
+1. **AWStats:** A powerful web log analyzer that generates detailed reports on your web traffic. It can show where your visitors come from, which pages they visit, and how often.
+2. **Webalizer:** Another tool to analyze web server logs. It provides statistics such as hits, visits, and page views, summarized graphically.
+
+### Tracking Specific Information
+To specifically track visitors' URL visits in your log files, ensure your logging format captures the necessary details. Here's an example configuration for Apache:
+
+#### Apache Access Log Configuration
+```apache
+LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"" combined
+CustomLog logs/access_log combined
+```
+
+### analyzing logs
+You can use commands like `grep` or tools like AWStats to analyze your logs:
+
+#### Example: Using `grep` to find URL visits
+```bash
+grep "GET /desired-page-url" /var/log/httpd/access_log
+```
+
 
