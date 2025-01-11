@@ -30,7 +30,9 @@
 - The Finder of What Police Doing
 - The Finder of What Criminals Doing
 - The Finder of What Happends
-
+- The Operator of Dark Web
+- The Operator of The Hiding
+  
 ------------------
 
 ### Instructions 📜
