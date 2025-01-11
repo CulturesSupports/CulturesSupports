@@ -26,10 +26,15 @@ concepts and themes. Here’s how you can generate your own:
 3. Customize the output as needed and integrate it into your projects.
 
 ### Instructions 📜
-1. Clone any of my repositories: `git clone https://github.com/username/repository-name`
-2. Explore the README.md for detailed setup instructions.
-3. Implement the scripts or tools provided in the repo.
-4. Contribute by forking the repository and creating pull requests.
+1. Clone any of repositories on github :
+```
+`git clone https://github.com/username/repository-name`
+
+```
+
+4. Explore the README.md for detailed setup instructions.
+5. Implement the scripts or tools provided in the repo.
+6. Contribute by forking the repository and creating pull requests.
 
 ### Roles & Honors 🥇
 - **Top Contributor:** Recognized as a top contributor in various open-source communities.
