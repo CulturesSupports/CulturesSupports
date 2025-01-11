@@ -340,6 +340,7 @@ grep "GET /desired-page-url" /var/log/httpd/access_log
 
 
 
+<img src="https://th.bing.com/th/id/R.bb12cf249414e985d2ac1c7f5db8a8fc?rik=bKxtnxoQuH57oQ&pid=ImgRaw&r=0" alt="Hacker" width="300" height="200">
 
 
 
