@@ -19,7 +19,8 @@
 ### Hacker Status 🏴‍☠️
 
 - Enabler of The Finder 
-
+- The Notorious Evidence Tracker
+- The Finder of Local Spies
 
 ### Instructions 📜
 1. Clone any of repositories on github :
