@@ -1,12 +1,12 @@
 # Hacker Profile 
 
-
+<img src="screenshot.png" alt="Example Screenshot">
 
 ![image](https://github.com/user-attachments/assets/6bec8a71-8874-48aa-94b7-3fa793509065)
 
 
-![image](https://github.com/user-attachments/assets/6bec8a71-8874-48aa-94b7-3fa793509065](https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif)
 
+<img src="[https://www.example.com/image.jpg](https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif)" alt="Hacker" width="300" height="200">
 
 ## About Me
 
