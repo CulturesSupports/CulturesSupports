@@ -99,3 +99,37 @@ If you need an entire terminal session with root privileges, run:
 This command will switch your shell to be the superuser. (Be careful, as this mode grants you full control over your system, which can lead to critical changes.)
 
 Anything specific you want to do with these elevated privileges? Just give me a shout.
+
+
+
+
+
+
+
+
+
+---------------------
+---------------------
+---------------------
+
+---------------------
+---------------------
+---------------------
+
+---------------------
+---------------------
+---------------------
+
+
+Absolutely, `lsof` is great for listing open ports. To display all open ports, you can use the following command:
+
+```sh
+sudo lsof -i -P -n
+```
+
+Here's a breakdown of what each option does:
+- `-i`: Includes all network files.
+- `-P`: Shows port numbers instead of service names.
+- `-n`: Prevents `lsof` from converting network numbers to host names (improving speed).
+
+Would you like assistance with anything else related to networking or `lsof` commands? Or perhaps there's another topic on your mind?
