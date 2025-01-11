@@ -91,9 +91,15 @@ Now, you can access it by going to `http://localhost:8000` or `http://127.0.0.1:
 
 Exposure Hacks For Local Host
 
+Certainly! Here's a table that offers clarity on the local host, `127.0.0.1`, and the loopback range, `127.0.0.0`:
 
+| Term           | Description                          | Use Case                              |
+|----------------|--------------------------------------|---------------------------------------|
+| `localhost`    | A hostname that refers to the local machine | Accessing network services running locally |
+| `127.0.0.1`    | The standard loopback IP address     | Looping back to the local machine for testing and development |
+| `127.0.0.0`    | Subnet address for loopback range    | Not typically used directly; represents all loopback addresses from `127.0.0.0` to `127.255.255.255`  |
 
-
+Let me know if there's anything specific you'd like to dive deeper into or if you need further assistance. 😊
 
 --------------------
 
