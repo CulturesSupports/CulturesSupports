@@ -5,6 +5,9 @@
 ![image](https://github.com/user-attachments/assets/6bec8a71-8874-48aa-94b7-3fa793509065)
 
 
+![image](https://github.com/user-attachments/assets/6bec8a71-8874-48aa-94b7-3fa793509065](https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif)
+
+
 ## About Me
 
 
