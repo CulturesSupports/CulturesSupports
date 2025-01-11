@@ -23,18 +23,13 @@ Here is my Hacker Status
 
 ```
 
-- Explore the README.md for detailed setup instructions.
-- Implement the scripts or tools provided in the repo.
-- Contribute by forking the repository and creating pull requests.
 
-### Roles & Honors 🥇
-- **Top Contributor:** Recognized as a top contributor in various open-source communities.
+
+### Roles & Honors & Achivements 🥇
+
 - **Certified Ethical Hacker Badges For Commiting Work in Organisation
 
     - ![Code Ninja](https://img.shields.io/badge/Code-Ninja-000000?style=flat&logo=github)
     - ![Open Source Champion](https://img.shields.io/badge/Open%20Source-Champion-0c9c0e?style=flat&logo=github)
     - ![Security Expert](https://img.shields.io/badge/Security-Expert-ff6633?style=flat&logo=github)
 
-### Contact 📧
-
-Feel free to explore my repositories, and reach out if you have any questions or collaboration ideas!
