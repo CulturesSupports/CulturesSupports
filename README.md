@@ -140,3 +140,64 @@ Here's a breakdown of what each option does:
 - `-n`: Prevents `lsof` from converting network numbers to host names (improving speed).
 
 Would you like assistance with anything else related to networking or `lsof` commands? Or perhaps there's another topic on your mind?
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------
+------------------------
+------------------------
+
+# Run `sysctl` and View All Kernel Parameters
+
+**`sysctl`** is a powerful command-line tool in macOS that allows you to:
+
+* **View:** Read the values of various kernel parameters that control system behavior.
+* **Modify:** Change the values of these parameters.
+
+**Common `sysctl` Commands in macOS Terminal:**
+
+* **View all kernel parameters:**
+
+   ```bash
+   sysctl -a 
+   ```
+
+* **View a specific kernel parameter:**
+
+   ```bash
+   sysctl kern.osrelease 
+   ``` 
+   (This command displays the macOS version.)
+
+* **Modify a kernel parameter:**
+
+   ```bash
+   sudo sysctl -w net.inet.tcp.window_scaling=1 
+   ```
+   (This enables TCP window scaling, as discussed earlier.)
+
+* **Other useful parameters:**
+
+    * **`kern.boottime`:** Displays the system boot time.
+    * **`kern.osversion`:** Displays the macOS version.
+    * **`hw.model`:** Displays the hardware model of your Mac.
+    * **`hw.memsize`:** Displays the total amount of RAM installed.
+    * **`kern.maxvnodes`:** Displays the maximum number of open files.
+
+**Important Notes:**
+
+* **Root Privileges:** Many `sysctl` commands require root privileges (use `sudo`).
+* **Caution:** Modifying kernel parameters can have unintended consequences if not done correctly. Proceed with caution and refer to the official macOS documentation for detailed information on each parameter.
+* **Reverting Changes:** To revert changes to a specific parameter, you can use the `sysctl` command to set it back to its default value.
+
+I hope this overview of `sysctl` commands in macOS Terminal is helpful!
+
