@@ -1,15 +1,4 @@
-# 🚀 
 
-
-Makes Terminal OS on Mac. 🤖✨
-
-## 🧩 About Me
-🌐 I’m
-
-📚 Currently diving deep into:
-- Shell Commands  🚀
-- Interactive Shells
-- Using Mac Os Terminal 
 
 
 
@@ -19,7 +8,8 @@ Makes Terminal OS on Mac. 🤖✨
 
 --------------
 
-If you're experiencing issues with your Terminal's PATH environment variable, resetting it to its default state on macOS can help. Here are steps to repair or reset your PATH:
+If you're experiencing issues with your Terminal's PATH environment variable, 
+resetting it to its default state on macOS can help. Here are steps to repair or reset your PATH:
 
 ### Edit `.zshrc` (or `.bash_profile` for Bash users)
 1. **Open Terminal**: Launch the Terminal application.
@@ -45,7 +35,10 @@ If you're experiencing issues with your Terminal's PATH environment variable, re
    source ~/.bash_profile
    ```
 
-### Verify the PATH
+   ------------------
+
+# Verify the PATH
+
 To verify that your PATH has been reset correctly, run:
 ```sh
 echo $PATH
