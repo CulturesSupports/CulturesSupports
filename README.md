@@ -24,6 +24,8 @@ Persons have often not resources to run on local pc
 -----------------------------
 
 # Generate Art With Ai 
+# Claude Monet STUDIO
+
 
 Generate Art Images Using Claude-Monet-Lora
 
