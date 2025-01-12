@@ -19,3 +19,13 @@ Persons have often not resources to run on local pc
 - using huggingface interface can make you run large language models
 - experience code helping with large language models
 - generate functions you need in apps
+
+
+-----------------------------
+
+# Generate Art With Ai 
+
+Generate Art Images Using Claude-Monet-Lora
+
+
+https://huggingface.co/spaces/aiqtech/flux-claude-monet-lora
