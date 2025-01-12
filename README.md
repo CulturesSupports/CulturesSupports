@@ -40,6 +40,9 @@ Persons have often not resources to run on local pc
 -
 
 
+-----------------------------
+
+
 
 
 
@@ -64,13 +67,7 @@ https://huggingface.co/spaces/aiqtech/flux-claude-monet-lora
 
 
 
-
----------------------------------------
-
-
-
-
-
+-----------------------------
 
 
 -
@@ -87,6 +84,11 @@ https://huggingface.co/spaces/aiqtech/flux-claude-monet-lora
 -
 -
 -
+
+
+-----------------------------
+
+
 
 
 ### Generate 3D Videos of Images of You Self Personal
@@ -97,4 +99,32 @@ https://huggingface.co/spaces/JeffreyXiang/TRELLIS
 
 
 https://github.com/user-attachments/assets/34e9c777-0626-4b14-a780-b2dd4ba19052
+
+
+
+
+
+
+-----------------------------
+
+
+-
+-
+-
+-
+---
+---
+
+
+---
+---
+-
+-
+-
+-
+
+
+-----------------------------
+
+
 
