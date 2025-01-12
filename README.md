@@ -128,3 +128,38 @@ https://github.com/user-attachments/assets/34e9c777-0626-4b14-a780-b2dd4ba19052
 
 
 
+
+### Generate 3D images of Personal ideas and text ideas prompts
+
+
+
+
+
+https://huggingface.co/spaces/ginipick/text3d
+
+
+
+
+
+-----------------------------
+
+
+-
+-
+-
+-
+---
+---
+
+
+---
+---
+-
+-
+-
+-
+
+
+-----------------------------
+
+
