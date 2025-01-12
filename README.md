@@ -163,7 +163,7 @@ https://huggingface.co/spaces/ginipick/text3d
 -
 ---
 ---
-
+![image](https://github.com/user-attachments/assets/e4a0ac72-503c-4f26-adb2-c96415468a35)
 
 ---
 ---
