@@ -159,13 +159,15 @@ https://huggingface.co/spaces/ginipick/text3d
 
    <img src="https://github.com/user-attachments/assets/5963b53c-94cb-4dd0-ab48-d120103b4b19" alt="MURDER" width="400px" height="auto">
 
-   <img src="https://github.com/user-attachments/assets/cbb3d36c-a162-444e-8b34-401091359772" alt="SPACE" width="400px" height="auto">
+  
+
+
+-----------------------------
+
+
+ <img src="https://github.com/user-attachments/assets/cbb3d36c-a162-444e-8b34-401091359772" alt="SPACE" width="400px" height="auto">
    
 
-
-
--
--
 
 
 -----------------------------
@@ -173,3 +175,4 @@ https://huggingface.co/spaces/ginipick/text3d
 
  <img src="https://github.com/user-attachments/assets/f75a9bb2-776b-4285-a54f-4d23cdea3cb7" alt="SPACE" width="400px" height="auto">
    
+-------------------------------
