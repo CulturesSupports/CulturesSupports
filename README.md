@@ -154,12 +154,16 @@ https://huggingface.co/spaces/ginipick/text3d
    <img src="https://github.com/user-attachments/assets/4dde646d-cf73-4d37-a7e3-13470f7e9ce1" alt="run" width="400px" height="auto">
    
 
-
-
 ---
 ---
--
--
+
+   <img src="https://github.com/user-attachments/assets/5963b53c-94cb-4dd0-ab48-d120103b4b19" alt="MURDER" width="400px" height="auto">
+
+   <img src="https://github.com/user-attachments/assets/cbb3d36c-a162-444e-8b34-401091359772" alt="SPACE" width="400px" height="auto">
+   
+
+
+
 -
 -
 
