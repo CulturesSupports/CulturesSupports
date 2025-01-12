@@ -142,21 +142,18 @@ https://huggingface.co/spaces/ginipick/text3d
 -
 
 
+<img src="https://github.com/user-attachments/assets/e4a0ac72-503c-4f26-adb2-c96415468a35" alt="run" width="400px" height="auto">
+    
 
+<img src="https://github.com/user-attachments/assets/7b554679-58df-4c9d-8c28-7a3f69c3b21d" alt="run" width="400px" height="auto">
 
+   <img src="https://github.com/user-attachments/assets/0db82e34-735b-41be-862d-279c917ad2d7" alt="run" width="400px" height="auto">
 
-![image](https://github.com/user-attachments/assets/e4a0ac72-503c-4f26-adb2-c96415468a35)
+   <img src="https://github.com/user-attachments/assets/112e0d5e-6aec-47c4-8cfc-f8d2eef5db66" alt="run" width="400px" height="auto">
 
+   <img src="https://github.com/user-attachments/assets/4dde646d-cf73-4d37-a7e3-13470f7e9ce1" alt="run" width="400px" height="auto">
+   
 
-![image](https://github.com/user-attachments/assets/7b554679-58df-4c9d-8c28-7a3f69c3b21d)
-
-![image](https://github.com/user-attachments/assets/0db82e34-735b-41be-862d-279c917ad2d7)
-
-
-![image](https://github.com/user-attachments/assets/112e0d5e-6aec-47c4-8cfc-f8d2eef5db66)
-
-
-![image](https://github.com/user-attachments/assets/4dde646d-cf73-4d37-a7e3-13470f7e9ce1)
 
 
 ---
