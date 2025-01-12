@@ -23,6 +23,26 @@ Persons have often not resources to run on local pc
 
 -----------------------------
 
+
+-
+-
+-
+-
+---
+---
+
+
+---
+---
+-
+-
+-
+-
+
+
+
+
+
 # Generate Art With Ai 
 
 
