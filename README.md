@@ -132,10 +132,19 @@ https://github.com/user-attachments/assets/34e9c777-0626-4b14-a780-b2dd4ba19052
 ### Generate 3D images of Personal ideas and text ideas prompts
 
 
-<img src="https://ginipick-text3d.hf.space/gradio_api/file=/tmp/gradio/1b3b2095d51f6bb966c031cc80bbc3f3c399a3bc3af76117e1f24ea74ce2b5a2/image.webp" alt="run" width="400px" height="auto">
-
 
 https://huggingface.co/spaces/ginipick/text3d
+
+-
+-
+-
+-
+-
+
+
+
+<img src="https://ginipick-text3d.hf.space/gradio_api/file=/tmp/gradio/1b3b2095d51f6bb966c031cc80bbc3f3c399a3bc3af76117e1f24ea74ce2b5a2/image.webp" alt="run" width="400px" height="auto">
+
 
 
 
