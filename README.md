@@ -160,6 +160,10 @@ https://huggingface.co/spaces/ginipick/text3d
 
 ![image](https://github.com/user-attachments/assets/e4a0ac72-503c-4f26-adb2-c96415468a35)
 
+
+![image](https://github.com/user-attachments/assets/7b554679-58df-4c9d-8c28-7a3f69c3b21d)
+
+
 ---
 ---
 -
