@@ -52,19 +52,20 @@ https://huggingface.co/spaces/aiqtech/flux-claude-monet-lora
 
 
 
-# Generate 3D Videos of Images of You Self Personal
+
+-
+-
+-
+-
+---
+---
+
+### Generate 3D Videos of Images of You Self Personal
 
 
 
 https://huggingface.co/spaces/JeffreyXiang/TRELLIS
 
-
--
--
--
--
----
----
 ---
 ---
 -
