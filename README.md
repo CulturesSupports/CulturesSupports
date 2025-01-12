@@ -153,6 +153,10 @@ https://huggingface.co/spaces/ginipick/text3d
 -----------------------------
 
 
+<img src="https://ginipick-text3d.hf.space/gradio_api/file=/tmp/gradio/6312830ad30777ce4b3d0b0107099e7c8d32370a15c32e33e871f48bc5be1a86/image.webp" alt="run" width="400px" height="auto">
+
+
+
 -
 -
 -
