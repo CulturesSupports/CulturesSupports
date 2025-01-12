@@ -143,25 +143,20 @@ https://huggingface.co/spaces/ginipick/text3d
 
 
 
-<img src="https://ginipick-text3d.hf.space/gradio_api/file=/tmp/gradio/1b3b2095d51f6bb966c031cc80bbc3f3c399a3bc3af76117e1f24ea74ce2b5a2/image.webp" alt="run" width="400px" height="auto">
-
-
-
-
-
-
------------------------------
-
-
-<img src="https://ginipick-text3d.hf.space/gradio_api/file=/tmp/gradio/6312830ad30777ce4b3d0b0107099e7c8d32370a15c32e33e871f48bc5be1a86/image.webp" alt="run" width="400px" height="auto">
-
-
 
 
 ![image](https://github.com/user-attachments/assets/e4a0ac72-503c-4f26-adb2-c96415468a35)
 
 
 ![image](https://github.com/user-attachments/assets/7b554679-58df-4c9d-8c28-7a3f69c3b21d)
+
+![image](https://github.com/user-attachments/assets/0db82e34-735b-41be-862d-279c917ad2d7)
+
+
+![image](https://github.com/user-attachments/assets/112e0d5e-6aec-47c4-8cfc-f8d2eef5db66)
+
+
+![image](https://github.com/user-attachments/assets/4dde646d-cf73-4d37-a7e3-13470f7e9ce1)
 
 
 ---
