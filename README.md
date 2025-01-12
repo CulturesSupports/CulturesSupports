@@ -28,4 +28,8 @@ Persons have often not resources to run on local pc
 Generate Art Images Using Claude-Monet-Lora
 
 
+
+
+<img src="https://aiqtech-flux-claude-monet-lora.hf.space/gradio_api/file=/tmp/gradio/ce4202b32d846dc60bcd3dff4feeb6e9a4edcb3b05299b5aedeb0f0fd9590640/image.webp" alt="run" width="400px" height="auto">
+
 https://huggingface.co/spaces/aiqtech/flux-claude-monet-lora
