@@ -20,8 +20,7 @@
 
 ---------
 
-### dont come here steal
-my attention
+### peoples is dumb 👩🏻‍🎨
 
 ---------
 
