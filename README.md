@@ -16,3 +16,14 @@
 - im not join Yah ✋
 - 👱🏻‍♂️ Have no social time
 - im enjoy my own days 🧔🏽‍♂️
+
+
+---------
+
+### dont come here steal
+my attention
+
+---------
+
+### dont come here as Stupid
+noise
