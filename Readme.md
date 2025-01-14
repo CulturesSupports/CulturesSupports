@@ -3,7 +3,7 @@
 ![Hacker Badge](https://img.shields.io/badge/Hacker-Red) 
 ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-Orange)
 
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+![Penetration Testing Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 ## Programming Languages
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
