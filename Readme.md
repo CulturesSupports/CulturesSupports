@@ -1,7 +1,10 @@
 
  ![Cyber Security Badge](https://img.shields.io/badge/Cyber%20Security-Blue) 
+ 
 ![Hacker Badge](https://img.shields.io/badge/Hacker-Red) 
+
 ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-Orange)
+
 ![Hacker Badge](https://img.shields.io/badge/Hacker-Red?logo=pokemon&logoColor=white)
 
 ![Penetration Testing Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
