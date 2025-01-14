@@ -11,7 +11,12 @@
 - ![Community Star Badge](https://img.shields.io/badge/Community%20Star-orange)
 
 ## GitHub Universe
-- ![GitHub Universe 2023 Badge](https://img.shields.io/badge/GitHub%20Universe-2023-ff69b4)
+- ![GitHub Universe 2024 Badge](https://img.shields.io/badge/GitHub%20Universe-2024-ffbb55)
+
+- ![GitHub Universe 2023 Badge](https://img.shields.io/badge/GitHub%20Universe-2023-aab42d)
+- ![GitHub Universe 2022 Badge](https://img.shields.io/badge/GitHub%20Universe-2022-94ddf4)
+- ![GitHub Universe 2021 Badge](https://img.shields.io/badge/GitHub%20Universe-2021-77ccaa)
+
 
 ## GitHub Comments
 - ![Comments Badge](https://img.shields.io/badge/Comments-87174%2B-blue)
