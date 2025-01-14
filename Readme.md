@@ -1,11 +1,11 @@
 
- ![Cyber Security Badge](https://img.shields.io/badge/Cyber%20Security-Blue) 
+ ![Cyber Security Badge](https://img.shields.io/badge/Cyber%20Security-492CCC) 
  
-![Hacker Badge](https://img.shields.io/badge/Hacker-Red) 
+![Hacker Badge](https://img.shields.io/badge/Hacker-BB33AA) 
 
-![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-Orange)
+![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-22CADF)
 
-![Hacker Badge](https://img.shields.io/badge/Hacker-Red?logo=pokemon&logoColor=white)
+![Hacker Badge](https://img.shields.io/badge/Hacker-Red?logo=pokemon&logoColor=88CCDE)
 
 ![Penetration Testing Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
