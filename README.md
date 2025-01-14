@@ -8,6 +8,9 @@ Narisisten Trenger Flere Floker Enn Alibi
 Sociopaten Trenger Flere Sosial Klienter Enn Mennesker
  ```
 
+``` 
+Psychopaten  Trenger Flere  Manipulasjoner en Realiteter
+ ```
 -
 -
 -
