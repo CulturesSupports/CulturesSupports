@@ -12,7 +12,6 @@ Sociopaten Trenger Flere Sosial Klienter Enn Mennesker
 Psychopaten  Trenger Flere  Manipulasjoner en Realiteter
  ```
 -
--
 - Read Psychiatry Manual To Find Your Mind Problems
 -
 -
