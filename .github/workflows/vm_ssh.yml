@@ -1,0 +1,41 @@
+name: Ubuntu VM SSH Access
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up QEMU and KVM
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y qemu qemu-kvm libvirt-daemon libvirt-clients bridge-utils virt-manager
+
+    - name: Create a Virtual Machine
+      run: |
+        sudo qemu-img create -f qcow2 ubuntu-vm.qcow2 10G
+        sudo qemu-system-x86_64 -enable-kvm -m 2G -net nic -net user,hostfwd=tcp::2222-:22 -hda ubuntu-vm.qcow2 &
+
+    - name: Wait for VM to start
+      run: sleep 60
+
+    - name: SSH into VM
+      uses: appleboy/ssh-action@v0.1.2
+      with:
+        host: localhost
+        port: 2222
+        username: YOUR_USERNAME
+        password: YOUR_PASSWORD
+        script: |
+          echo "Connected to VM!"
+          # Add your remote commands here
