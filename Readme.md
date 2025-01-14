@@ -1,5 +1,6 @@
-
+![DESIGN](https://github.com/user-attachments/assets/80c88a2e-d6a0-4b67-97b6-d0578f926616)
 ![HACKER BADGE](https://github.com/user-attachments/assets/c9205259-468d-45e1-9ae9-55d284aa5652)
+
 
 ## IM  MAKE HACKER BADGES 
 
