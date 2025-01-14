@@ -1,7 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/e9101718-fe62-435d-a1f2-38a29986eb0d)
-
-![image](https://github.com/user-attachments/assets/a26dbbcb-19b9-4a9f-8234-4aff7fe4ceb9)
+![image](https://github.com/user-attachments/assets/bf4f825f-f131-4ce0-af89-8cd8f833efb0)
 
 mdbook
 
