@@ -1,7 +1,7 @@
 
  ![Cyber Security Badge](https://img.shields.io/badge/Cyber%20Security-492CCC) 
  
-![Hacker Badge](https://img.shields.io/badge/Hacker-BB33AA) 
+![Hacker Badge](https://img.shields.io/badge/Hacker-3C5C3C) 
 
 ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-22CADF)
 
