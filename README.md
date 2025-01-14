@@ -1,3 +1,2 @@
-![image](https://github.com/user-attachments/assets/bfd26305-c994-4c85-9b56-c43634467aaf)
-
-### Finding And Tracking Person Trackers 
+# SvinDleren Trenger Flere Alibi En Normalt Menneske
+# Narisisten Trengger Flere Floker Enn Alibi
