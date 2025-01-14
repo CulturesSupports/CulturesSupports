@@ -5,7 +5,7 @@
 
 ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-22CADF)
 
-![Hacker Badge](https://img.shields.io/badge/Hacker-Red?logo=pokemon&logoColor=88CCDE)
+![Hacker Badge](https://img.shields.io/badge/Hacker-Red?logo=pokemon&logoColor=E44CAA)
 
 ![Penetration Testing Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
