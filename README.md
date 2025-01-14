@@ -13,7 +13,8 @@ Psychopaten  Trenger Flere  Manipulasjoner en Realiteter
  ```
 -
 -
--
+- Read Psychiatry Manual To Find Your Mind Problems
+![image](https://github.com/user-attachments/assets/a08666bd-e59e-4a45-afc7-c37ce90418c0)
 -
 - `A sociopath is someone who exhibits a pattern of antisocial behavior`
 - `lack of empathy, and disregard for the rights of others.`
