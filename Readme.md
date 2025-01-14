@@ -18,3 +18,7 @@
 
 ## Terminal Proficiency
 - ![Terminal Pro Badge](https://img.shields.io/badge/Terminal%20Pro-green)
+
+
+## Terminal Proficiency
+- ![Hacker Pro Badge](https://img.shields.io/badge/Hacker%20Pro-red)
