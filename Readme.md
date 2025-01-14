@@ -1,7 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/bf4f825f-f131-4ce0-af89-8cd8f833efb0)
 
-mdbook
 
 
  ![Cyber Security Badge](https://img.shields.io/badge/Cyber%20Security-492CCC) 
