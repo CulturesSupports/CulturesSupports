@@ -16,9 +16,9 @@
 ## GitHub Comments
 - ![Comments Badge](https://img.shields.io/badge/Comments-87174%2B-blue)
 
-## Terminal Proficiency
-- ![Terminal Pro Badge](https://img.shields.io/badge/Terminal%20Pro-green)
+## Terminal Pro
+- ![Terminal Pro Badge](https://img.shields.io/badge/Terminal%20Pro%40User-green)
 
 
-## Terminal Proficiency
+## Hacker Pro
 - ![Hacker Pro Badge](https://img.shields.io/badge/Hacker%20Pro-red)
