@@ -14,7 +14,7 @@
 - ![GitHub Universe 2023 Badge](https://img.shields.io/badge/GitHub%20Universe-2023-ff69b4)
 
 ## GitHub Comments
-- ![Comments Badge](https://img.shields.io/badge/Comments-100%2B-blue)
+- ![Comments Badge](https://img.shields.io/badge/Comments-87100%2B-blue)
 
 ## Terminal Proficiency
 - ![Terminal Pro Badge](https://img.shields.io/badge/Terminal%20Pro-green)
