@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4b995c7b-5f5f-4a4d-b336-b5c357c3df22)
-
+![image](https://github.com/user-attachments/assets/bfd26305-c994-4c85-9b56-c43634467aaf)
 
 ### Finding And Tracking Person Trackers 
