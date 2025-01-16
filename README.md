@@ -40,3 +40,6 @@ oppdraget er innfridd i februar 5
 vi er del av Colombia ,  og denne 3 år kontrakten er Oppdrifter Capasity Inne i Colombia 
 
 Dette er ikke Norge innvolvert i , heller skal ikke norge være del av dette.
+
+
+Colombia Warrants Er Selskapet vi er Forhold med Som Hoved Post
