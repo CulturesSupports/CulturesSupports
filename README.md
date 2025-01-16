@@ -35,3 +35,8 @@ det er 14 dager til vi oppnår verdien av 1840 milliarder og den 3års fremtidig
 vi fikk selv strikket avtalen på 1840 milliarder når vi oppnår klausul value mission på 1840 milliarder
 
 oppdraget er innfridd i februar 5
+
+
+vi er del av Colombia ,  og denne 3 år kontrakten er Oppdrifter Capasity Inne i Colombia 
+
+Dette er ikke Norge innvolvert i , heller skal ikke norge være del av dette.
