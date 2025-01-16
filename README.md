@@ -28,6 +28,7 @@ a corrupt video leaks some other images from
 - never can afford be honest
 - never is paying for celebrations ?
 - never include efforts to others ?
+- But Still is Hiding and Spying on Us ? 
 
   
 - living luxory
