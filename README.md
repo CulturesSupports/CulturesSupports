@@ -28,6 +28,8 @@ vi oppnår årets store drift ratio coverage protections.
 dette gjør ingen andre industrier eller markeder kan inneha lignenede forhold
 
 
+Vi er del av Colombia og kan ikke være delaktig annet enn colombia i 3års perioden
+
 det er 14 dager til vi oppnår verdien av 1840 milliarder og den 3års fremtidige ratio arbeidet drifter segmentet
 
 vi fikk selv strikket avtalen på 1840 milliarder når vi oppnår klausul value mission på 1840 milliarder
