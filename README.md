@@ -29,7 +29,7 @@ a corrupt video leaks some other images from
 - never is paying for celebrations ?
 - never include efforts to others ?
 - But Still is Hiding and Spying on Us ? 
-
+- Plays a Active Boss we never have here ?
   
 - living luxory
   - celebrate alcohol parties with football clubs
