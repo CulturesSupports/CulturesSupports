@@ -17,6 +17,10 @@ background-check on war crimes :
 
 --------------
 
-a corrupt video leaks some other images from parties to streets trips on local areas where they party and stay happy and invites tourism
-
+a corrupt video leaks some other images from 
+- parties
+- streets trips on local areas
+- where they party and stay happy and invites tourism
+- go for party and drinking
+- outside eating resturants 
 - are you knowing about this corruptions
