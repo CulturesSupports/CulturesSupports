@@ -22,5 +22,10 @@ a corrupt video leaks some other images from
 - streets trips on local areas
 - where they party and stay happy and invites tourism
 - go for party and drinking
-- outside eating resturants 
+- outside eating resturants
+- dont hessitates work for it
+- taking vacations
+- living luxory
+  --------
+  
 - are you knowing about this corruptions
