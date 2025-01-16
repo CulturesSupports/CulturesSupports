@@ -10,3 +10,6 @@ background-check on war crimes :
 - palestine
 - somalia
 - uganda
+- ukraine
+- russia
+- syria
