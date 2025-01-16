@@ -26,7 +26,10 @@ a corrupt video leaks some other images from
 - dont hessitates work for it
 - taking vacations
 - living luxory
-  
+  - celebrate alcohol parties with football clubs
+  - celebrate expensive on golf fields
+  - celebrate exlusive events in sports you cant afford join ?
+    
   --------
   
 - are you knowing about this corruptions ?
