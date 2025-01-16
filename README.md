@@ -43,3 +43,7 @@ Dette er ikke Norge innvolvert i , heller skal ikke norge være del av dette.
 
 
 Colombia Warrants Er Selskapet vi er Forhold med Som Hoved Post
+
+ingen i norge kan bli på posten vår i Colombia. 
+
+Avtalen innebærer drifte Organisasjon Trivsel og Opprette Midler For The Youth i Colombia 
