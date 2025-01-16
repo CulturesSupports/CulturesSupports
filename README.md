@@ -48,3 +48,11 @@ ingen i norge kan bli på posten vår i Colombia.
 
 Avtalen innebærer drifte Organisasjon Trivsel og Opprette Midler Av Utdanning 
 For  Unge Talenter  i Colombia 
+
+
+Dette Blir At Satsingen på 1840 millarder Blir i Student Miljøet og Drifte Trygge Forhold med Utdanning 
+
+- Vi har selskap kontakt i Colombia og Oppretter Våre Forhold Der i Colombia
+- Dette Trenger ikke andre involvere seg med, intill vi selv tar og innfrir områdene og utsteder trygg drift for vår
+  organisering praksis
+
