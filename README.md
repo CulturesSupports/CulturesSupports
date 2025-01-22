@@ -1,7 +1,17 @@
-be carefulll of psychosis
-
+we are vite app builders
 ------
 
-Manny Have Psychosis 
 
-- Not Many is Trusted
+
+we drive vite applications
+
+we commiting run Vite 
+
+
+
+
+---------
+
+
+Vite Builder
+The Heroik monokais
