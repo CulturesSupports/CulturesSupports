@@ -19,4 +19,4 @@ Vite Builder
 https://vite.dev
 
 
-- we use it as it is
+- we formation drive it from storage to app
