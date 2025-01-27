@@ -26,7 +26,9 @@ https://vite.dev
 --------------
 
 ```
-we enabled develop code editor
+we enabled develop
+code editor
+
 ```
 
 https://culture.support
@@ -41,3 +43,20 @@ the ui/ux for code editor
 
 ```
 
+- we made the code
+  editor to stopp phising
+  and dont let a phishing page
+  ruin our days
+
+  - website remains allways
+    ads free
+
+    - we dont search downloaded
+      code or collect data from the
+      downloaded codes
+
+      - We enabled small code
+        window shells to perform
+        test code language
+
+        - javascripts , hotmail , css
