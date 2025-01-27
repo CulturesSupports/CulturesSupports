@@ -48,17 +48,29 @@ the ui/ux for code editor
   and dont let a phishing page
   ruin our days
 
-  - website remains allways
+- website remains allways
     ads free
 
-    - we dont search downloaded
+- we dont search downloaded
       code or collect data from the
       downloaded codes
 
-      - We enabled small code
+- We enabled small code
         window shells to perform
         test code language
 
         - javascript
         - bootstrap , html5
         - css
+
+
+
+----------------
+
+
+
+- We Dont Setup Cookies
+- We Dont Setup Web Scraping
+- We Dont Setup Ads
+- We Dont Setup Tracking Apps
+
