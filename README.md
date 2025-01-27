@@ -59,4 +59,6 @@ the ui/ux for code editor
         window shells to perform
         test code language
 
-        - javascripts , hotmail , css
+        - javascript
+        - bootstrap , html5
+        - css
