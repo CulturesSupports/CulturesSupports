@@ -33,8 +33,10 @@ https://culture.support
 
 
 ```
-We are setting up the code project
-avaible in repository and we are upgrade
+We are setting up the
+code project
+avaible in repository
+and we are upgrade
 the ui/ux for code editor
 
 ```
