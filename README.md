@@ -35,6 +35,3 @@ A Code Editor in Html / CSS / Js
 
 https://culture.support
 
-
-```
-
