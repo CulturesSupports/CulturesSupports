@@ -30,51 +30,11 @@ We Are Both Developers :
 
 
 ```
-we enabled develop
-code editor
-
+A Code Editor in Html / CSS / Js
 ```
 
 https://culture.support
 
 
 ```
-We are setting up the
-code project
-avaible in repository
-and we are upgrade
-the ui/ux for code editor
-
-```
-
-- we made the code
-  editor to stopp phising
-  and dont let a phishing page
-  ruin our days
-
-- website remains allways
-    ads free
-
-- we dont search downloaded
-      code or collect data from the
-      downloaded codes
-
-- We enabled small code
-        window shells to perform
-        test code language
-
-        - javascript
-        - bootstrap , html5
-        - css
-
-
-
-----------------
-
-
-
-- We Dont Setup Cookies
-- We Dont Setup Web Scraping
-- We Dont Setup Ads
-- We Dont Setup Tracking Apps
 
