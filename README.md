@@ -15,7 +15,7 @@
 
 -----
 
-<img src="https://github.com/user-attachments/assets/63ccb9aa-2f2c-4230-a6f6-659736ff03f4" width="300" height="200" alt="Hack">
+<img src="https://github.com/user-attachments/assets/63ccb9aa-2f2c-4230-a6f6-659736ff03f4" width="300" height="400" alt="Hack">
 
 -------
 
