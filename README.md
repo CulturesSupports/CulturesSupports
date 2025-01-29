@@ -1,11 +1,11 @@
-we are vite app builders
+ Computer Programmer 
+ 
 ------
 
 
 
-we drive vite applications
-
-we commiting run Vite 
+We Develop Vite Apps
+We Develop Svelte Frontend
 
 
 
