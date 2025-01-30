@@ -204,3 +204,9 @@ ________________
   - - Enables Draw Fine Scetches of Apps
 
 https://about.easil.com/
+
+
+
+----------------
+
+Cost of Hiring a Designer a Year is Around 80 000
