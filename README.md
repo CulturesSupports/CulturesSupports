@@ -257,4 +257,12 @@ Enabling basic software  and obtain a 3 hour work days
 
 # Cost oF operationing Company is 390 000 Billion per Day
 
-- Cost of Obtaining Persononal Employees 14 447 Billion Work Space
+- Cost of Obtaining Persononal Employees 14 447 Billion W
+ork Space
+
+
+
+
+![Samurai](https://github.com/user-attachments/assets/681551bf-71c6-40f7-9f2f-2f7bf2f0ae3a)
+
+
