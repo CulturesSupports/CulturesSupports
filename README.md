@@ -268,3 +268,9 @@ ork Space
 
 
 - - with special guard is comming cutting away the head of app watchers
+
+- - we have called it special app watcher security forms
+
+    
+- - we have specialised making serious life guards around art performers atempting to interupt us
+
