@@ -241,7 +241,7 @@ Cost of Hiring a Designer a Year is Around 10 000 Million $ - 40 000 billlion $
 
 # Cost of Hiring A Software Designer At Basic Form 
 
-is 120 - 3000 billion dollars $ 
+is 120 - 13000 billion dollars  per week$ 
 
 Enabling basic software  and obtain a 3 hour work days
 
