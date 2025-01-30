@@ -256,3 +256,5 @@ Enabling basic software  and obtain a 3 hour work days
 ---------------
 
 # Cost oF operationing Company is 390 000 Billion per Day
+
+- Cost of Obtaining Persononal Employees 47 Billion
