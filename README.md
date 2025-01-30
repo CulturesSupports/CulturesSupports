@@ -2,6 +2,13 @@
 # Vs Code Editor Configurations 
 
 
+<a href="https://example.com">
+  <img src="https://example.com/image.jpg" alt="Description" height="200" width="300">
+</a>
+
+
+
+
 ----------------------------
 
 # Configure Vs Code With Extentions
@@ -72,6 +79,25 @@ Feel free to customize these settings according to your needs. If you have any s
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 
+--------------------------
 
+https://stackblitz.com/
+
+https://codesandbox.io/
+
+https://jsfiddle.net/
+
+https://replit.com/
+
+https://glitch.com/
+
+-------------------
+
+
+
+# Code Carreer 
+
+
+https://codefinity.com/
 
 
