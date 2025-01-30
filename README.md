@@ -77,6 +77,12 @@ Feel free to customize these settings according to your needs. If you have any s
 ---------------------------
 
 
+
+# EditorConfig for VS Code: 
+
+- Overrides user/workspace settings with settings found in `.editorconfig files.`
+
+
 # Place Editor Config Files in Projects 
 
 
