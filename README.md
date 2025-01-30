@@ -3,7 +3,7 @@
 
 
 <a href="https://example.com">
-  <img src="https://th.bing.com/th?q=Visual+Studio+Code+Vector+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=2&pid=InlineBlock&mkt=de-DE&cc=DE&setlang=en&adlt=moderate&t=1&mw=247" alt="Description" height="200" width="300">
+  <img src="https://th.bing.com/th?q=Visual+Studio+Code+Vector+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=2&pid=InlineBlock&mkt=de-DE&cc=DE&setlang=en&adlt=moderate&t=1&mw=247](https://th.bing.com/th/id/OIP.Uc4pBasYBvJNTxX3C3-JWwHaHa?w=161&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="Description" height="200" width="300">
 </a>
 
 
