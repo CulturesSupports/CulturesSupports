@@ -11,13 +11,6 @@
 
 -------
 
-IntelliCode: Provides AI-assisted code completions.
-
-Using Correct Vs Code 
-
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
 
 ```
 A Website We Are Into
@@ -75,3 +68,21 @@ Here’s a sample configuration to enable IntelliCode and optimize its features:
 This configuration will enable IntelliCode for various languages and make sure it uses deep learning models to provide enhanced code completions.
 
 Feel free to customize these settings according to your needs. If you have any specific configurations or additional questions, let me know!
+
+
+
+
+
+
+---------------------------
+
+
+# Place Editor Config Files in Projects 
+
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+
+
+
+
