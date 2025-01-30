@@ -222,4 +222,4 @@ Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 
 is 120 000 - 300 000 $ 
 
-Enabling frames and basic software layouts and obtain a 3 hour work days
+Enabling basic software  and obtain a 3 hour work days
