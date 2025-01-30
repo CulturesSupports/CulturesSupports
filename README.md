@@ -215,7 +215,7 @@ https://about.easil.com/
 - then its evaluated for icons , small photos and regular smal editing projects
 leaning to use computer in 2 hour a day
  
-Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
+Cost of Hiring a Designer a Year is Around 800 Million $ -  1200 million $
 
 
 -------------------------
@@ -234,14 +234,14 @@ Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 - holding superior quality work safety and have a safety 4 life guards with observing the art worker
 
  
-Cost of Hiring a Designer a Year is Around 10 280 000 $ - 40 250 000 $
+Cost of Hiring a Designer a Year is Around 10 000 Million $ - 40 000 Milllion $
 
 
 -------------------------
 
 # Cost of Hiring A Software Designer At Basic Form 
 
-is 120 000 - 300 000 $ 
+is 120 - 300 million dollars $ 
 
 Enabling basic software  and obtain a 3 hour work days
 
