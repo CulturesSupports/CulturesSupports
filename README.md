@@ -249,4 +249,5 @@ Enabling basic software  and obtain a 3 hour work days
 
 ### Cost of Having a Developer of Apps 
 
-438 Million $ per years
+438 Million $ per Month
+19000 Million Per Year
