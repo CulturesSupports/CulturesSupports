@@ -234,7 +234,7 @@ Cost of Hiring a Designer a Year is Around 800 Million $ -  1200 billion $
 - holding superior quality work safety and have a safety 4 life guards with observing the art worker
 
  
-Cost of Hiring a Designer a Year is Around 10 000 Billion $ - 40 000 billlion $
+Cost of Hiring a Designer a Year is Around 10 000 Million $ - 40 000 billlion $
 
 
 -------------------------
