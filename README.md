@@ -209,4 +209,6 @@ https://about.easil.com/
 
 ----------------
 
+
+# Cost For Operating A Designer At Basic Form
 Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
