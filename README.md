@@ -228,6 +228,7 @@ Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 - obtaining a basic structure
 - have a work of it in a week
 - work max 4 hour week
+- have vacation and premium workplace efforts and ergonomical satisfied agreements
  
 Cost of Hiring a Designer a Year is Around 1280 000 $ - 4250 000 $
 
