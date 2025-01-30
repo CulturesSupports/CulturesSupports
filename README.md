@@ -32,7 +32,7 @@ https://culture.support
 
 ----------------------------
 
-
+# Configure Vs Code With Extentions
 
 To configure IntelliCode in your Visual Studio Code (VS Code) settings using the `settings.json` file, you'll want to ensure IntelliCode is installed and then tweak your settings to enhance its AI-assisted code completions. Here's how you can do it:
 
