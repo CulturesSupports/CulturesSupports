@@ -195,5 +195,12 @@ ________________
 
 ### App Designs Tools We Use 
 
+- This Enchances Build interfaces
+- Stepping Up Correcting Use Less Css
+- Enable Beautify Code and App
+- Enable Apps to Be Designed With Position Controll
+
+- - Enable Draw Nice Apps Prepair Demos
+  - - Enables Draw Fine Scetches of Apps
 
 https://about.easil.com/
