@@ -212,6 +212,7 @@ https://about.easil.com/
 
 # Cost For Operating A Designer At Basic Form
 
-- then its evaluated for logo, small photos and regular editing
-
+- then its evaluated for icons , small photos and regular smal editing projects
+leaning to use computer in 2 hour a day
+ 
 Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
