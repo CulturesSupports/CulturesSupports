@@ -210,55 +210,7 @@ https://about.easil.com/
 ----------------
 
 
-# Cost For Operating A Designer At Basic Form
 
-- then its evaluated for icons , small photos and regular smal editing projects
-leaning to use computer in 2 hour a day
- 
-Cost of Hiring a Designer a Year is Around 800 Million $ -  1200 billion $
-
-
--------------------------
-
-
-
-# Cost For Operating A Art Designer
-
-- then its evalueted for making a simple Art
-- obtaining a basic structure in art structure max 1 meter height
-- have a work vacation of 2 weeks after a worked week and relyed work vacation paid compensations
-- work max 4 hour week
-- have vacation and premium workplace efforts and ergonomical satisfied agreements
-
-- make earth quake safe environment and enchance noise canceling environmnet
-- holding superior quality work safety and have a safety 4 life guards with observing the art worker
-
- 
-Cost of Hiring a Designer a Year is Around 10 000 Million $ - 40 000 billlion $
-
-
--------------------------
-
-# Cost of Hiring A Software Designer At Basic Form 
-
-is 12000 - 13000 billion dollars  per week$ 
-
-Enabling basic software  and obtain a 3 hour work days
-
--------------
-
-### Cost of Having a Developer of Apps 
-
-- 4538 Million $ per Month
-- 19000 Billion Per Year
-
-
----------------
-
-# Cost oF operationing Company is 390 000 Billion per Day
-
-- Cost of Obtaining Persononal Employees 14 447 Billion W
-ork Space
 
 
 
@@ -267,14 +219,4 @@ ork Space
 
 
 
-- - with special guard is comming cutting away the head of app watchers
 
-- - we have called it special app watcher security forms
-
-    
-- - we have specialised making serious life guards around art performers atempting to interupt us
-
-
-
-
-## is it not mutch to see ?  We Cut Head off with Life Guard Security
