@@ -12,9 +12,7 @@
 -------
 
 
-```
-A Website We Are Into
-```
+# A Website For Im Owning My Self
 
 https://culture.support
 
