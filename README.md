@@ -244,3 +244,9 @@ Cost of Hiring a Designer a Year is Around 10 280 000 $ - 40 250 000 $
 is 120 000 - 300 000 $ 
 
 Enabling basic software  and obtain a 3 hour work days
+
+-------------
+
+### Cost of Having a Developer of Apps 
+
+38 Million $ per years
