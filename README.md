@@ -218,8 +218,8 @@ leaning to use computer in 2 hour a day
 Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 
 
-Cost of Hiring A Software Designer At Basic Form 
+# Cost of Hiring A Software Designer At Basic Form 
 
-is 100 - 200 000 #
+is 120 000 - 300 000 $ 
 
 Enabling frames and basic software layouts and obtain a 3 hour work days
