@@ -225,6 +225,9 @@ Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 # Cost For Operating A Art Designer
 
 - then its evalueted for making a simple Art
+- obtaining a basic structure
+- have a work of it in a week
+- work max 4 hour week
  
 Cost of Hiring a Designer a Year is Around 1280 000 $ - 4250 000 $
 
