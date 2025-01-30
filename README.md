@@ -231,7 +231,7 @@ Cost of Hiring a Designer a Year is Around 80 000 $ - 150 000 $
 - have vacation and premium workplace efforts and ergonomical satisfied agreements
 
 - make earth quake safe environment and enchance noise canceling environmnet
-- holding superior quality work safety and have a safety guard with observing the art worker
+- holding superior quality work safety and have a safety 4 life guards with observing the art worker
 
  
 Cost of Hiring a Designer a Year is Around 10 280 000 $ - 40 250 000 $
