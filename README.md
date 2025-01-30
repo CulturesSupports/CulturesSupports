@@ -251,3 +251,8 @@ Enabling basic software  and obtain a 3 hour work days
 
 - 4538 Million $ per Month
 - 19000 Billion Per Year
+
+
+---------------
+
+# Cost oF operationing Company is 390 000 Billion per Day
