@@ -27,6 +27,10 @@ If you see signs of this consuming to mutch of your time , stay cautions and
 respect your body tells its enough and take a period of to to 
 low healthy breathing trips outside in fresh air and stay focused to have relaxed moments and enjoy a bether mental health with long pauses
 
+
+- Your Body Will Love You For Taking Breaks and Periods Off
+- Your Body Need Breaks And Healthy Trips Outside Without Thinking Of This
+
 ----------
 
 Questions Ask Regards of Setup 
