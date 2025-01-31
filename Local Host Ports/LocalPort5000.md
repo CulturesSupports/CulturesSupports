@@ -1,3 +1,6 @@
+
+
+
 Setting up a local server on port 5000 is a common task for developers. To open port 5000 on your localhost, you would typically follow these steps:
 
 1. **Install the necessary software**: Make sure you have a web server installed, such as Node.js, Python, or any other server software that you prefer.
