@@ -1,3 +1,5 @@
+
+
 To explore private frameworks on macOS using `otool`, you can use several commands to inspect the contents and dependencies of these frameworks. Here are some useful `otool` commands:
 
 1. **List Linked Libraries**: To list the libraries linked to a binary, use:
