@@ -20,6 +20,13 @@
         - - -  This is not you life and should only be used with low time consumptions and dont work to hessitate things to be done
             -  - -  Have A Healthy Time Consumption for Eyes and Mental Health and Screen time Use on Computers and Mobile
 
+
+---- ---- ---- ----
+
+If you see signs of this consuming to mutch of your time , stay cautions and 
+respect your body tells its enough and take a period of to to 
+low healthy breathing trips outside in fresh air and stay focused to have relaxed moments and enjoy a bether mental health with long pauses
+
 ----------
 
 Questions Ask Regards of Setup 
