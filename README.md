@@ -6,6 +6,10 @@
   <img src="https://th.bing.com/th/id/OIP.aihwLxHNAVQlNa8MI2R4-AHaHa?pid=ImgDet&w=196&h=196&c=7&dpr=2" alt="Logo" height="150" width="auto">
 
 
+https://copilot.microsoft.com
+
+- Copilot answeers questions about operative systems
+
 ----------------------------
 
 ### Ai can make you get transparent answeer and questions
