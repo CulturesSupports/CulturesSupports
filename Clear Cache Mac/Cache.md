@@ -1,4 +1,5 @@
 
+
 To repair the cache on your Mac using Terminal, you can clear various types of cache files to improve performance. Here are some common commands:
 
 ### Clear Browser Cache
