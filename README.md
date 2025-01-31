@@ -15,6 +15,11 @@ https://code.visualstudio.com/
 https://copilot.microsoft.com
 
 - Copilot answeers questions about operative systems
+- Code Libraries
+- Settings in Visual Studio Code
+- Coding Advice of Code In Repositories
+- Answeer helps into making code perfection
+- drag and drop code and correcting code in copilot
 
 ----------------------------
 
