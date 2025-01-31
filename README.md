@@ -33,6 +33,8 @@ low healthy breathing trips outside in fresh air and stay focused to have relaxe
 - Your Body Will Respect Your Self For Taking Healthy Good Period Outside in Fresh Air
 - Max Use it 3 hour per week
 
+- Mastering this benefits of taking long breaks will get you longer healthy benefits you wanted
+
 ----------
 
 Questions Ask Regards of Setup 
