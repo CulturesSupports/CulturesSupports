@@ -10,6 +10,15 @@
 
 ### Ai can make you get transparent answeer and questions
 
+- Days
+- Week Days
+- Evenening
+- Morning
+
+- - - Please Show Cautions about time consumptions together with the use of the softwarw
+    - - - Stay Smart and Think Safely Use Cases
+        - - -  This is not you life and should only be used with low time consumptions and dont work to hessitate things to be done
+
 
 Questions Ask Regards of Setup 
 
