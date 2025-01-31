@@ -1,6 +1,7 @@
 
 
 
+
 The `man` command in Unix and Unix-like operating systems displays the manual pages for various commands. When you use `sudo man`, you're requesting the manual page for a command with superuser privileges. Here's how you can use it:
 
 ### Basic Syntax
