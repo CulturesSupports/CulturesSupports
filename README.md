@@ -29,7 +29,9 @@ low healthy breathing trips outside in fresh air and stay focused to have relaxe
 
 
 - Your Body Will Love You For Taking Breaks and Periods Off
-- Your Body Need Breaks And Healthy Trips Outside Without Thinking Of This
+- Your Body Need Breaks And Healthy Trips Outside Without Thinking Of This Screen Consuming Things
+- Your Body Will Respect Your Self For Taking Healthy Good Period Outside in Fresh Air
+- Max Use it 3 hour per week
 
 ----------
 
