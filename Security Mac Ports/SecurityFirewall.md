@@ -1,3 +1,5 @@
+
+
 To close all ports on your Mac using `chmod` and firewall settings in Terminal, you would actually want to use a different approach. `chmod` is used to change file permissions, not to manage network ports. To manage and close network ports, you can use the built-in firewall.
 
 Here are the steps to enable and configure the firewall to block all incoming connections:
