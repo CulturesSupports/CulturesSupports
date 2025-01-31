@@ -2,6 +2,7 @@
 
 
 
+
 To repair permissions for macOS system files using the `chmod` command, you'll need to be cautious, as modifying system files can have serious consequences. Generally, it's recommended to use macOS built-in tools like Disk Utility and `csrutil` for system integrity protection. However, if you need to change permissions on specific system files, here's how you can do it:
 
 1. **Open Terminal**: Go to Finder > Applications > Utilities > Terminal.
