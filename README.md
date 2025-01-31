@@ -10,9 +10,9 @@
 
 Questions Ask Regards of Setup 
 
-- Ask about configure vs code extentions
-- Ask about configure mac os settings
-- Ask About configure linux settings
+- Ask about configure vs Code extentions
+- Ask about configure Mac os settings
+- Ask About configure Linux settings
 - Ask About configure Windows settings
 
 [Copilot.Microsoft.com]
