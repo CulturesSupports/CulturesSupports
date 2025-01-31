@@ -15,9 +15,10 @@
 - Evenening
 - Morning
 
-- - - Please Show Cautions about time consumptions together with the use of the softwarw
+- - - Please Show Cautions about time consumptions together with the use of the software
     - - - Stay Smart and Think Safely Use Cases
         - - -  This is not you life and should only be used with low time consumptions and dont work to hessitate things to be done
+            -  - -  Have A Healthy Time Consumption for Eyes and Mental Health and Screen time Use on Computers and Mobile
 
 ----------
 
