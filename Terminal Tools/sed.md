@@ -1,3 +1,8 @@
+
+
+
+
+
 Great choice! The `sed` (stream editor) command is incredibly powerful for text manipulation. Here are some useful `sed` commands you can use in the terminal on macOS:
 
 1. **Substitute text within a file:**
