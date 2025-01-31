@@ -1,3 +1,6 @@
+
+
+
 To view file permissions in macOS using Terminal, you can use the `ls` command with specific options to display detailed information about files and directories. Here's how you can do it:
 
 ### Basic Command
@@ -37,6 +40,8 @@ drwxr-xr-x  5 user  staff  160 Jan 31 08:00 Documents
   ```sh
   ls -lR
   ```
-  This lists files and directories recursively.
 
-Would you like more information or a specific example related to file permissions? 😊
+
+   This lists files and directories recursively.
+
+
