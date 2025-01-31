@@ -8,6 +8,9 @@
 
 ----------------------------
 
+### Ai can make you get transparent answeer and questions
+
+
 Questions Ask Regards of Setup 
 
 - Ask about configure vs Code extentions
