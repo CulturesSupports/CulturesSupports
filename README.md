@@ -19,6 +19,9 @@ Questions Ask Regards of Setup
 
 https://copilot.microsoft.com
 
+
+- This Links Make You enable to Get Answeer based on Questions about Operative Systems and Setup of Settings 
+
 -------------------
 
 
