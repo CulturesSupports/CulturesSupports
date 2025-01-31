@@ -1,3 +1,5 @@
+
+
 Access Control Lists (ACLs) on macOS provide a way to set more granular permissions for files and directories than the standard POSIX permissions - TechRepublic](https://www.techrepublic.com/article/introduction-to-os-x-access-control-lists-acls/). Here are some common commands to manipulate ACLs in the Terminal:
 
 ### Viewing ACLs
