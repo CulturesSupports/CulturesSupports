@@ -1,3 +1,4 @@
+
 `hexdump` is a command-line utility used to display file contents in hexadecimal, decimal, octal, or ASCII format. Here are some commonly used `hexdump` commands:
 
 1. **Display file contents in hexadecimal**:
