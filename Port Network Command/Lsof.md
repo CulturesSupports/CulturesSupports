@@ -1,3 +1,4 @@
+
 Sure thing! `lsof` (List Open Files) is a command-line utility in Unix-like systems that provides a list of all open files and the processes that have them open. Here are some common `lsof` commands:
 
 1. **List all open files**:
