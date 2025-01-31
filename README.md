@@ -19,7 +19,8 @@ https://copilot.microsoft.com
 - Settings in Visual Studio Code
 - Coding Advice of Code In Repositories
 - Answeer helps into making code perfection
-- drag and drop code and correcting code in copilot
+- drag and drop code and correcting code in copilot chat window
+- repair broken codes and let window code pilot even write code into a bootstrap template
 
 
 
