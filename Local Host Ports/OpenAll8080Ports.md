@@ -49,4 +49,5 @@ Got it! Here are the instructions for opening port 8080 on localhost for various
      sudo ufw enable
      ```
 
-Following these steps will open port 8080 on your localhost across different operating systems. Make sure to verify the port is open and always keep your system secure. If you need help with a specific configuration or have more questions, feel free to ask!
+Following these steps will open port 8080 on your localhost across different operating systems. Make sure to verify the port is open and always keep your system secure.
+
