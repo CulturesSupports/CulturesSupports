@@ -65,7 +65,7 @@ password : pingflow
 
 
 
-# Passwords will Will Work Here
+# Passwords + Username will Will Work Here
 
 https://culture.support
 
