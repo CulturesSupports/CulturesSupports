@@ -31,7 +31,10 @@ https://culture.support
 
   ``` code a package.json dependencies in json for library Node js ```
 
- 
+ ```
+code a package.json dependencies in json for all updated dependencies
+
+``` 
 
 --------
 
