@@ -19,13 +19,13 @@ ask code chat to develop  dependencies in json  for libraries
 - example ask it
 
 
-   ``` code a dependency in json for library flutter ```
+   ``` code a dependency in json for library flutter  ```
 
- ``` code a dependency in json for library react  ```
+ ``` code a dependency in json for library react   ```
 
-  ``` code a dependency in json for library vue js ```
+  ``` code a dependency in json for library vue js  ```
 
-   ``` code a dependency in json for library bootstrap ```
+   ``` code a dependency in json for library bootstrap  ```
 
     ``` code a dependency in json for library npm js ```
 
