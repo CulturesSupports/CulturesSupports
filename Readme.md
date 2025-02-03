@@ -1,78 +1,24 @@
+
+
+
 We Have Updated Our Clients to Enable Chat
 
 
 
-We Enabled Chat Password and Username For Having Access To Website
 
 
-
-
-We Have Made Password Accesss to Website to Hinder illcit Traffick 
-
-- We Need Safe Accesss and We Enabled Password and Username
-
-
-- This is to avoid illcit traffick and only have Github users to come into our visits
-
--------------
 
 https://culture.support
-
-
-username is :  denybox
-
-password : denybox
-
-
 
 --------
 
-
--------------
-
-https://culture.support
-
-
-username is :  github
-
-password : github
-
-
+ask about our code chat to develop dependensies for libraries
 
 --------
 
-
-
-https://culture.support
-
-
-username is :  singstar
-
-password : singstar
+Use dependencies inside Json to Install apps and run updates
 
 --------
-
-
-
-https://culture.support
-
-
-username is : pingflow
-
-password : pingflow
-
---------
-
-
-
-# Passwords + Username will Will Work Here
-
-https://culture.support
-
-
--------
-
-
 
 
 
