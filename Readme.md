@@ -73,9 +73,11 @@ https://culture.support
 -------
 
 
-### Password and Username is Essential To Committing Get Only Human Visitors
-
-### Bots is not invited to perform for operations like adsense or illcit traffick
 
 
-### we have only traffick for using the chat window inside
+
+
+
+Proggramming with apps requires dependencies in json 
+
+use dependencies to keep packages updated
