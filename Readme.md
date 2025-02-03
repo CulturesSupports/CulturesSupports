@@ -18,22 +18,43 @@ https://culture.support
 
 - example ask it
 
+```
 
- ``` code a package.json dependencies in json for library flutter ```
+ code a package.json dependencies in json for library flutter
 
-``` code a package.json dependencies in json for library react  ```
+```
 
- ``` code a package.json dependencies in json for library vue js ```
+```
 
-``` code a package.json dependencies in json for library bootstrap  ```
+code a package.json dependencies in json for library react 
 
-  ```
+```
+
+```
+
+code a package.json dependencies in json for library vue js
+
+
+```
+
+```
+
+code a package.json dependencies in json for library bootstrap 
+
+```
+
+```
+
   code a package.json dependencies in json for library npm js
 
 ```
 
-  ```
+
+```
+
   code a package.json dependencies in json for library Node js ```
+
+```
 
 ```
 code a package.json dependencies in json for all updated dependencies
@@ -42,15 +63,17 @@ code a package.json dependencies in json for all updated dependencies
 
 --------
 
+
+
 Use dependencies inside Json to Install apps and run updates
 
 Use Package.json to install dependencies and run updated packages 
 
---------
 
 
 
 
+------------
 
 
 
