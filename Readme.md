@@ -12,8 +12,9 @@ https://culture.support
 
 --------
 
-ask about our code chat to develop dependensies for libraries
+ask about our code chat to develop  dependencies in json  for libraries
 
+it will run easier with npm run commands
 --------
 
 Use dependencies inside Json to Install apps and run updates
