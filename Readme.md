@@ -12,7 +12,7 @@ https://culture.support
 
 --------
 
-ask code chat to develop  dependencies in json  for libraries
+### ask code chat to develop  dependencies in json  for libraries
 
 - it will develop a json dependency if you mention it to generate json dependency for library
 
