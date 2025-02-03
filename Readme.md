@@ -12,9 +12,12 @@ https://culture.support
 
 --------
 
-ask about our code chat to develop  dependencies in json  for libraries
+ask code chat to develop  dependencies in json  for libraries
 
-it will run easier with npm run commands
+- it will develop a json dependency if you mention it to generate json dependency for library
+
+- example ask it ```code a dependency in json for library flutter ```
+
 --------
 
 Use dependencies inside Json to Install apps and run updates
