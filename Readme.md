@@ -37,6 +37,8 @@ ask code chat to develop  dependencies in json  for libraries
 
 Use dependencies inside Json to Install apps and run updates
 
+Use Package.json to install dependencies and run updated packages 
+
 --------
 
 
