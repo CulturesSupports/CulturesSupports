@@ -17,7 +17,13 @@
 
 ```
 
-Psychosis is a condition where a person experiences a disconnection from reality. This can involve hallucinations (seeing or hearing things that aren't there) and delusions (false beliefs that are strongly held despite evidence to the contrary). It can be a symptom of various mental health conditions, such as schizophrenia, bipolar disorder, and severe depression.
+Psychosis is a condition where a person experiences a disconnection
+from reality. This can involve hallucinations
+(seeing or hearing things that aren't there) and delusions
+ (false beliefs that are strongly held despite evidence
+to the contrary). It can be a symptom of various menta
+l health conditions, such as schizophrenia,
+ bipolar disorder, and severe depression.
 
 
 ```
