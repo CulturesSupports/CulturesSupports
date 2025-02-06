@@ -1,4 +1,11 @@
-Å sette opp et virtuelt miljø i Python er en flott måte å isolere prosjektene dine på og sikre at avhengigheter ikke konflikterer med hverandre. Her er en enkel guide for hvordan du kan gjøre dette:
+Å sette opp et virtuelt miljø i Python er en flott måte å 
+isolere prosjektene dine på og sikre at avhengigheter ikke konflikterer med hverandre.
+Her er en enkel guide for hvordan du kan gjøre dette:
+
+
+
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#create-and-use-virtual-environments
+
 
 ### Steg 1: Installer `virtualenv`
 Først må du installere `virtualenv`-pakken hvis den ikke allerede er installert. Dette kan gjøres ved hjelp av pip:
