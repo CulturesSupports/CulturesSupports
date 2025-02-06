@@ -8,13 +8,18 @@ https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-e
 
 
 ### Steg 1: Installer `virtualenv`
-Først må du installere `virtualenv`-pakken hvis den ikke allerede er installert. Dette kan gjøres ved hjelp av pip:
+
+Først må du installere `virtualenv`-pakken hvis den ikke allerede er installert.
+Dette kan gjøres ved hjelp av pip:
+
 ```sh
 pip install virtualenv
 ```
 
 ### Steg 2: Opprett et virtuelt miljø
-Naviger til prosjektmappen din i kommandolinjen og opprett et nytt virtuelt miljø. La oss kalle dette miljøet `venv`:
+
+Naviger til prosjektmappen din i kommandolinjen og 
+opprett et nytt virtuelt miljø. La oss kalle dette miljøet `venv`:
 ```sh
 virtualenv venv
 ```
@@ -28,20 +33,27 @@ For å aktivere det virtuelle miljøet, bruk følgende kommandoer avhengig av di
   ```
 
 - **På macOS og Linux**:
+
   ```sh
   source venv/bin/activate
   ```
 
-Når miljøet er aktivert, vil du se at terminalprompten endrer seg for å indikere at du jobber innenfor det virtuelle miljøet.
+Når miljøet er aktivert, vil du se at terminalprompten endrer seg 
+for å indikere at du jobber innenfor det virtuelle miljøet.
 
 ### Steg 4: Installere avhengigheter
-Når det virtuelle miljøet er aktivert, kan du installere nødvendige avhengigheter ved å bruke pip. For eksempel:
+
+Når det virtuelle miljøet er aktivert,
+kan du installere nødvendige avhengigheter ved å bruke pip. For eksempel:
+
 ```sh
 pip install numpy pandas
 ```
 
 ### Steg 5: Deaktivere det virtuelle miljøet
-Når du er ferdig med arbeidet ditt, kan du deaktivere det virtuelle miljøet med kommandoen:
+Når du er ferdig med arbeidet ditt, 
+kan du deaktivere det virtuelle miljøet med kommandoen:
+
 ```sh
 deactivate
 ```
@@ -57,7 +69,9 @@ deactivate
   pip install -r requirements.txt
   ```
 
-Dette er grunnleggende trinn for å jobbe med virtuelle miljøer i Python. Hvis du har flere spørsmål eller trenger hjelp med noe spesielt, er jeg her for å hjelpe deg videre!
+Dette er grunnleggende trinn for å jobbe med virtuelle miljøer i Python. 
+Hvis du har flere spørsmål eller trenger hjelp med noe spesielt, 
+er jeg her for å hjelpe deg videre!
 
 
 
