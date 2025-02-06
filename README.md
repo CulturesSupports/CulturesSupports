@@ -9,8 +9,8 @@ https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-e
 
 ### Steg 1: Installer `virtualenv`
 
-Først må du installere `virtualenv`-pakken hvis den ikke allerede er installert.
-Dette kan gjøres ved hjelp av pip:
+- Først må du installere `virtualenv`-pakken hvis den ikke allerede er installert.
+- Dette kan gjøres ved hjelp av pip:
 
 ```sh
 pip install virtualenv
