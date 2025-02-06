@@ -18,14 +18,17 @@ pip install virtualenv
 
 ### Steg 2: Opprett et virtuelt miljø
 
-Naviger til prosjektmappen din i kommandolinjen og 
-opprett et nytt virtuelt miljø. La oss kalle dette miljøet `venv`:
+- Naviger til prosjektmappen din i kommandolinjen og 
+- opprett et nytt virtuelt miljø. La oss kalle dette miljøet `venv`:
+
 ```sh
 virtualenv venv
 ```
 
 ### Steg 3: Aktivere det virtuelle miljøet
-For å aktivere det virtuelle miljøet, bruk følgende kommandoer avhengig av ditt operativsystem:
+
+- For å aktivere det virtuelle miljøet,
+- bruk følgende kommandoer avhengig av ditt operativsystem:
 
 - **På Windows**:
   ```sh
@@ -38,21 +41,22 @@ For å aktivere det virtuelle miljøet, bruk følgende kommandoer avhengig av di
   source venv/bin/activate
   ```
 
-Når miljøet er aktivert, vil du se at terminalprompten endrer seg 
-for å indikere at du jobber innenfor det virtuelle miljøet.
+- Når miljøet er aktivert, vil du se at terminalprompten endrer seg 
+- for å indikere at du jobber innenfor det virtuelle miljøet.
 
 ### Steg 4: Installere avhengigheter
 
-Når det virtuelle miljøet er aktivert,
-kan du installere nødvendige avhengigheter ved å bruke pip. For eksempel:
+- Når det virtuelle miljøet er aktivert,
+- kan du installere nødvendige avhengigheter ved å bruke pip. For eksempel:
 
 ```sh
 pip install numpy pandas
 ```
 
 ### Steg 5: Deaktivere det virtuelle miljøet
-Når du er ferdig med arbeidet ditt, 
-kan du deaktivere det virtuelle miljøet med kommandoen:
+
+- Når du er ferdig med arbeidet ditt, 
+- kan du deaktivere det virtuelle miljøet med kommandoen:
 
 ```sh
 deactivate
@@ -60,6 +64,7 @@ deactivate
 
 ### Tilleggsinformasjon:
 - For å lagre alle installerte avhengigheter i en fil kan du bruke:
+
   ```sh
   pip freeze > requirements.txt
   ```
@@ -69,9 +74,9 @@ deactivate
   pip install -r requirements.txt
   ```
 
-Dette er grunnleggende trinn for å jobbe med virtuelle miljøer i Python. 
-Hvis du har flere spørsmål eller trenger hjelp med noe spesielt, 
-er jeg her for å hjelpe deg videre!
+- Dette er grunnleggende trinn for å jobbe med virtuelle miljøer i Python. 
+- Hvis du har flere spørsmål eller trenger hjelp med noe spesielt, 
+- er jeg her for å hjelpe deg videre!
 
 
 
