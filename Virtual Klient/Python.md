@@ -62,3 +62,17 @@ we have been preciate you visit it , to get health care guidance
 ..............
 
 ..............
+
+- hope you find what you seeking in days of enjoying be on github
+- have a friendly tone to anyone
+- we wish you stay friendly
+
+-------------
+---------------
+
+- im have self mental health issues
+- we need to be kindness with people anyway
+- dont belive we hate you
+--------------
+-------------
+----------
