@@ -90,7 +90,7 @@ https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-e
 
 
 
-### Correct Python Installation Guide 
+# Riktig Python Installasjon Guide 
 
 
 - Å sette opp et virtuelt miljø i Python er en flott måte å 
