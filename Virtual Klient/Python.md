@@ -32,7 +32,8 @@ some people may have wrong beliefs of spiritual connections
 
 -  these people operate violent and dont communicate stable
 -  need to seek psychiatric patient care
-
+- mental health issues is not wanted for anyone
+- we want kindness and feeling of wellness
 
 ..............
 
