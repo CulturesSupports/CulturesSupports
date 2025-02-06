@@ -1,4 +1,4 @@
-For Dart, setting up a virtual environment is somewhat different than for languages ​​like Python. Dart does not have a built-in tool specifically for virtual environments, but you can still create isolated project environments by managing dependencies properly. Here’s how to do it:
+ For Dart, setting up a virtual environment is somewhat different than for languages ​​like Python. Dart does not have a built-in tool specifically for virtual environments, but you can still create isolated project environments by managing dependencies properly. Here’s how to do it:
 
 ### Step 1: Install the Dart SDK
 First, you need to install the Dart SDK if it is not already installed. You can download and install the Dart SDK from [Dart’s official website](https://dart.dev/get-dart).
