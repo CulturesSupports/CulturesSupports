@@ -1,6 +1,6 @@
 ![list-every-terminal-command-mac-2](https://github.com/user-attachments/assets/f9e2c9fb-1cd1-49a1-97f6-7d9187086eaa)
 
--------
+---------
 
 
 Tap esc double times fast to unfold this window of all terminal command in a list 
