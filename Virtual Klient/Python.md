@@ -51,3 +51,6 @@ we have been preciate you visit it , to get health care guidance
 --------------------
 
 - we hope you seeking a friendly tone of accomendations
+- We must act friendly and helpfull no mather if we self struggle
+
+- but we wish you serve us kind attitude
