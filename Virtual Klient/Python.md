@@ -32,3 +32,22 @@ some people may have wrong beliefs of spiritual connections
 
 -  these people operate violent and dont communicate stable
 -  need to seek psychiatric patient care
+
+
+..............
+
+
+its not unlegal to search information about it or seek guidance of podcasts, 
+materials upon mental health conditions 
+
+But we need safety and if you feel agression upon us or any circumstanses
+hearing voices and it affect you in uncontrolled mood swings 
+
+please seek mental health care. 
+
+we have been preciate you visit it , to get health care guidance
+
+
+--------------------
+
+- we hope you seeking a friendly tone of accomendations
