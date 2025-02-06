@@ -1,4 +1,4 @@
-Å sette opp et virtuelt miljø for JavaScript-prosjekter kan hjelpe med å isolere avhengigheter og sikre en konsistent utviklingsopplevelse. Her er en enkel guide for hvordan du kan gjøre dette ved hjelp av Node.js og `nvm` (Node Version Manager): 
+ Å sette opp et virtuelt miljø for JavaScript-prosjekter kan hjelpe med å isolere avhengigheter og sikre en konsistent utviklingsopplevelse. Her er en enkel guide for hvordan du kan gjøre dette ved hjelp av Node.js og `nvm` (Node Version Manager): 
 
 ### Steg 1: Installer Node Version Manager (nvm)
 Først må du installere `nvm`, som lar deg administrere flere versjoner av Node.js:
