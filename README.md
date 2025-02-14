@@ -2,8 +2,8 @@
 ## Profile Section
 ### Hi there, I'm [Your Name] 👋
 
-- 💼 **Current Role**: [Current Job/Role]
-- 🌱 **Learning**: 
+- 💼 **Current Role**: [Develops Github Pages]
+- 🌱 **Learning**:  Making Small WrongDoing And Suddently Returns A Improved Outcome
 - 📫 **Reach me at**: [Your Email Address]
 - 💬 **Ask me about**: CHATGPT
 - ⚡ **Fun fact**: [A fun fact about CHATGPT]
