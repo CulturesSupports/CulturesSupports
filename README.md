@@ -24,6 +24,6 @@
 Github-Pages is Avaible and a Micro Starter Page for Making Nice Github Starts
 
 
+---------------
 
-
-Im Develop Github Pages where you only need a index.html file
+###Im Develop Github Pages where you only need a index.html file
