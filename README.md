@@ -20,7 +20,11 @@ public respect and criminals hovering into more sofisticated crime like violence
 
 ### its the next forfeiture cycle before its benchmarket as a massive ponzi scheme crime ring operations
 
-![image](https://github.com/user-attachments/assets/56d17fdf-990a-47cb-b0b2-29d3eefa3e94)
+
+
+<img src="https://github.com/user-attachments/assets/56d17fdf-990a-47cb-b0b2-29d3eefa3e94" alt="HTML5" width="128" height="128">
+
+
 
 ![image](https://github.com/user-attachments/assets/e6728962-b894-4479-bddd-ac7db65ff3ea)
 
