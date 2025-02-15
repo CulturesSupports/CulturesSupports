@@ -17,7 +17,7 @@ This section displays basic user details.
 | Location    | The hacker's general location.               | New York, USA        |
 | Bio         | A short description about the hacker.       | Passionate security researcher. |
 | Profile URL | Link to the hacker's public profile.      | [example.com/john_doe_hacker](example.com/john_doe_hacker) |
-| Avatar URL  | Link to the hacker's profile picture.         | [avatar.example.com/john_doe.jpg](avatar.example.com/john_doe.jpg) |
+| Avatar URL  | Link to the hacker's profile picture.         | [image](avatar.example.com/john_doe.jpg) |
 
 ### 2. Hacker Information
 
