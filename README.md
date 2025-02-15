@@ -4,7 +4,6 @@
 
 ### 5. User Profile Badges & Hacker Status Icons
 
-These badges represent achievements and contributions within the platform, and some are designed as "hacker status icons" with full logo size suitable for a YouTube banner or profile enhancement.
 
 | Badge Name         | Description                                     | Image URL                                 | Notes                                                              |
 |--------------------|-------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------|
