@@ -11,8 +11,8 @@ These badges represent achievements and contributions within the platform, and s
 | Top Contributor    | Active and helpful community member.           | Etterforsker DRAP I MØRE OG ROMDSDAL |                                                                    |
 | Challenge Master   | Solved a large number of challenging problems. | ETTER FORSKER KRIMINELL I MØRE OG ROMSDAL |                                                                    |
 | Bug Hunter         | Discovered and reported significant bugs.       | Etterforsker Kriminelle Svindlere i Møre og Romsdal |                                                                    |
-| **Elite Hacker**   | Highly skilled and respected hacker.            | [badge.example.com/elite_hacker.png](badge.example.com/elite_hacker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
-| **Master Exploit** | Expert in exploiting system vulnerabilities.  | [badge.example.com/master_exploit.png](badge.example.com/master_exploit.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
+| **Elite Hacker**   | Highly skilled and respected hacker.            | [badge.example.com/elite_hacker.png](badge.example.com/elite_hacker.png) | HoneyPOT                          |
+| **Master Exploit** | Expert in exploiting system vulnerabilities.  | [badge.example.com/master_exploit.png](badge.example.com/master_exploit.png) | Hacker Honeypot                          |
 | **Cyber Ninja**    | Stealthy and skilled in penetration testing.     | [badge.example.com/cyber_ninja.png](badge.example.com/cyber_ninja.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Ghost in the Net**| Leaves no trace; master of anonymity.          | [badge.example.com/ghost.png](badge.example.com/ghost.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Code Breaker**   | Skilled in cryptography and code cracking.       | [badge.example.com/code_breaker.png](badge.example.com/code_breaker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
