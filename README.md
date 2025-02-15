@@ -20,18 +20,17 @@
 | **Pentester Pro**   | Certified penetration tester.                 | etterforsker voldelig hacker miljø i møre og romsdal |                                                                    |
 | ...               | ...                                             | ...                                         | ...                                                                  |
 
-**Notes on Hacker Status Icons:**
 
-*   The "Hacker Status Icon" badges are specifically designed with a larger, more prominent size and a visually striking design (e.g., incorporating skulls, masks, circuit boards, or other hacker-related imagery) to serve as eye-catching profile elements.
-*   These are ideal for use in YouTube banners, profile pictures, or other areas where a strong visual statement is desired.  Ensure the image URLs point to appropriately sized and formatted images (e.g., PNG with transparency).
-*   Consider using a consistent style for these icons to create a cohesive look for the hacker profile.
+---------
+ ### Operation Detecting Honour Fraud
 
-**Example YouTube Banner Integration:**
+- Biggest Uncover Operation in Human Trafficking Detection Accrross Europe
 
-Imagine a YouTube banner where the background is a dark, tech-themed image.  You could place several of the "Hacker Status Icon" badges prominently on the banner, along with the hacker's username or channel name, to create a strong hacker persona.
 
-**Creating the Badge Images:**
+### Operation Mission Track
 
-You can create these badge images using graphics editing software like GIMP (free), Adobe Photoshop, or online tools like Canva.  Search for "hacker icons" or "cybersecurity badges" for inspiration and resources.  Remember to create variations in size for different uses (small for the data grid, large for banners).
+Uncover Links To Swindles like :  Panama Papers and Heavens 
 
-This expanded section provides a wider range of badges and highlights how to create and use "Hacker Status Icons" for a more impactful profile. Remember to replace the example image URLs with your own.
+### Operation Swindler Friends
+
+Uncover Political Friendly Fraudsters
