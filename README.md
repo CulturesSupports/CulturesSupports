@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/4832d264-a297-488f-907e-d07f78a46970)
 
 
-### 5. Operation Hacker Core
+### 5. Operation Embezzlement
 
 
 Embezzlement is a type of financial crime where someone misuses or takes assets entrusted to them, typically for personal gain. This crime occurs in various settings, usually within businesses where employees can access company funds.
