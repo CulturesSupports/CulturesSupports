@@ -29,6 +29,7 @@ public respect and criminals hovering into more sofisticated crime like violence
 ![image](https://github.com/user-attachments/assets/fcfce604-a9a4-4ee0-b667-4ccef1d60472)
 
 
+![image](https://github.com/user-attachments/assets/679f55fe-ea51-4c54-8011-c6863cb0af29)
 
 Unlike simple theft, embezzlement involves a breach of trust, which makes it a unique and serious criminal offense. Familiarity with embezzlement can help individuals recognize and prevent it in their workplaces.
 
