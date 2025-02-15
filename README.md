@@ -12,6 +12,12 @@ Embezzlement is a type of financial crime where someone misuses or takes assets 
 
 they acting as a malicious target forfeiture laundering assets and swindle with burglary and attempting further acting upon scams like knowing people and tell people deciviing lies to conduct secret theft and scams and felony frauds
 
+felony crimes is crimes of swindling and passing services that is obtaining from a individual they never meet but uses as target for laundering and swindling and acting as 
+people is important around persons and is acting malicious and hoping scammers get roles around the criminal participated and starts swindling the victim with false assets workplaces
+
+its a billion dollar corruption stake pools and criminals laundering in attempts to act legimitated in the frauded ring of people, and acts up on swindle gains 
+public respect and criminals hovering into more sofisticated crime like violence and scammer tactics to frauding more criminality , and even atempting frauding government in more sorts of crimes 
+
 Unlike simple theft, embezzlement involves a breach of trust, which makes it a unique and serious criminal offense. Familiarity with embezzlement can help individuals recognize and prevent it in their workplaces.
 
 
