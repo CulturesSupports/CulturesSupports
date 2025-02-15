@@ -36,3 +36,7 @@ Uncover Links To Swindles like :  Panama Papers and Heavens
 ### Operation Swindler Friends
 
 Uncover Political Friendly Fraudsters
+
+### Sending the Corrupt to DEath penality 
+
+
