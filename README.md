@@ -2,6 +2,9 @@
 
 ... (Previous sections remain the same)
 
+![image](https://github.com/user-attachments/assets/4832d264-a297-488f-907e-d07f78a46970)
+
+
 ### 5. Operation Hacker Core
 
 ![image](https://github.com/user-attachments/assets/ed82ff69-2c08-4a90-8968-3b68ae6a8612)
