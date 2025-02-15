@@ -11,12 +11,12 @@ These badges represent achievements and contributions within the platform, and s
 | Top Contributor    | Active and helpful community member.           | Etterforsker DRAP I MØRE OG ROMDSDAL |                                                                    |
 | Challenge Master   | Solved a large number of challenging problems. | ETTER FORSKER KRIMINELL I MØRE OG ROMSDAL |                                                                    |
 | Bug Hunter         | Discovered and reported significant bugs.       | Etterforsker Kriminelle Svindlere i Møre og Romsdal |                                                                    |
-| **Elite Hacker**   | Highly skilled and respected hacker.            | [badge.example.com/elite_hacker.png](badge.example.com/elite_hacker.png) | HoneyPOT                          |
-| **Master Exploit** | Expert in exploiting system vulnerabilities.  | [badge.example.com/master_exploit.png](badge.example.com/master_exploit.png) | Hacker Honeypot                          |
-| **Cyber Ninja**    | Stealthy and skilled in penetration testing.     | [badge.example.com/cyber_ninja.png](badge.example.com/cyber_ninja.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
-| **Ghost in the Net**| Leaves no trace; master of anonymity.          | [badge.example.com/ghost.png](badge.example.com/ghost.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
-| **Code Breaker**   | Skilled in cryptography and code cracking.       | [badge.example.com/code_breaker.png](badge.example.com/code_breaker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
-| **Red Team Lead**  | Experienced in leading red team exercises.      | [badge.example.com/red_team.png](badge.example.com/red_team.png) |                                                                    |
+| **Elite Hacker**   | Highly skilled and respected hacker.            | Forensic Crime Evidences | HoneyPOT                          |
+| **Master Exploit** | Expert in exploiting system vulnerabilities.  | Finding Swindlers Thefts  | Hacker Honeypot                          |
+| **Cyber Ninja**    | Stealthy and skilled in penetration testing.     | Operation False Operations | Hacker Honeypot                          |
+| **Ghost in the Net**| Leaves no trace; master of anonymity.          | Operation Detecting False Government | Operation Fraud Commisioning                           |
+| **Code Breaker**   | Skilled in cryptography and code cracking.       | Operation Espionage | Uncover The Criminal Targeted Individuals                          |
+| **Red Team Lead**  | Experienced in leading red team exercises.      | Operation Force Stopp Corruptions |  Finding Criminal Lie Detectors                                                                   |
 | **Blue Team Defender**| Expert in defensive security strategies.       | Etterforsker Forsvar Kriminalitet og Forfølgelse Bedrageri |                                                                    |
 | **Pentester Pro**   | Certified penetration tester.                 | etterforsker voldelig hacker miljø i møre og romsdal |                                                                    |
 | ...               | ...                                             | ...                                         | ...                                                                  |
