@@ -20,6 +20,10 @@ public respect and criminals hovering into more sofisticated crime like violence
 
 ### its the next forfeiture cycle before its benchmarket as a massive ponzi scheme crime ring operations
 
+![image](https://github.com/user-attachments/assets/56d17fdf-990a-47cb-b0b2-29d3eefa3e94)
+
+![image](https://github.com/user-attachments/assets/e6728962-b894-4479-bddd-ac7db65ff3ea)
+
 
 Unlike simple theft, embezzlement involves a breach of trust, which makes it a unique and serious criminal offense. Familiarity with embezzlement can help individuals recognize and prevent it in their workplaces.
 
