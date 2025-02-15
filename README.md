@@ -9,7 +9,7 @@ These badges represent achievements and contributions within the platform, and s
 | Badge Name         | Description                                     | Image URL                                 | Notes                                                              |
 |--------------------|-------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------|
 | Top Contributor    | Active and helpful community member.           | Etterforsker DRAP I MØRE OG ROMDSDAL |                                                                    |
-| Challenge Master   | Solved a large number of challenging problems. | [badge.example.com/challenge.png](badge.example.com/challenge.png) |                                                                    |
+| Challenge Master   | Solved a large number of challenging problems. | ETTER FORSKER KRIMINELL I MØRE OG ROMSDAL |                                                                    |
 | Bug Hunter         | Discovered and reported significant bugs.       | [badge.example.com/bug.png](badge.example.com/bug.png) |                                                                    |
 | **Elite Hacker**   | Highly skilled and respected hacker.            | [badge.example.com/elite_hacker.png](badge.example.com/elite_hacker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Master Exploit** | Expert in exploiting system vulnerabilities.  | [badge.example.com/master_exploit.png](badge.example.com/master_exploit.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
