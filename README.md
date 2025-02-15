@@ -18,7 +18,7 @@ These badges represent achievements and contributions within the platform, and s
 | **Code Breaker**   | Skilled in cryptography and code cracking.       | [badge.example.com/code_breaker.png](badge.example.com/code_breaker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Red Team Lead**  | Experienced in leading red team exercises.      | [badge.example.com/red_team.png](badge.example.com/red_team.png) |                                                                    |
 | **Blue Team Defender**| Expert in defensive security strategies.       | Etterforsker Forsvar Kriminalitet og Forfølgelse Bedrageri |                                                                    |
-| **Pentester Pro**   | Certified penetration tester.                 | [badge.example.com/pentester.png](badge.example.com/pentester.png) |                                                                    |
+| **Pentester Pro**   | Certified penetration tester.                 | etterforsker voldelig hacker miljø i møre og romsdal |                                                                    |
 | ...               | ...                                             | ...                                         | ...                                                                  |
 
 **Notes on Hacker Status Icons:**
