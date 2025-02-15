@@ -22,34 +22,36 @@ public respect and criminals hovering into more sofisticated crime like violence
 
 
 
-<img src="https://github.com/user-attachments/assets/56d17fdf-990a-47cb-b0b2-29d3eefa3e94" alt="HTML5" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/56d17fdf-990a-47cb-b0b2-29d3eefa3e94" alt="HTML5" width="500" height="300">
+
+--------------
+
+<img src="https://github.com/user-attachments/assets/e6728962-b894-4479-bddd-ac7db65ff3ea" alt="HTML5" width="500" height="300">
+
+--------------
+
+<img src="https://github.com/user-attachments/assets/51bb877c-b9d5-41a4-a11c-94d17d9d6098" alt="HTML5" width="500" height="300">
 
 
-
-<img src="https://github.com/user-attachments/assets/e6728962-b894-4479-bddd-ac7db65ff3ea" alt="HTML5" width="300" height="300">
-
-
-<img src="https://github.com/user-attachments/assets/51bb877c-b9d5-41a4-a11c-94d17d9d6098" alt="HTML5" width="300" height="300">
-
-
-
+--------------
 
 
 
 <img src="https://github.com/user-attachments/assets/fcfce604-a9a4-4ee0-b667-4ccef1d60472" alt="HTML5" width="500" height="300">
 
+--------------
 
 <img src="https://github.com/user-attachments/assets/d6ef6f46-2f06-4fc2-9988-424bafa0e91c" alt="HTML5" width="500" height="300">
 
 
-
+--------------
 
 
 <img src="https://github.com/user-attachments/assets/679f55fe-ea51-4c54-8011-c6863cb0af29" alt="HTML5" width="500" height="300">
 
 
 
-
+--------------
 
 
 Unlike simple theft, embezzlement involves a breach of trust, which makes it a unique and serious criminal offense. Familiarity with embezzlement can help individuals recognize and prevent it in their workplaces.
@@ -59,7 +61,11 @@ Unlike simple theft, embezzlement involves a breach of trust, which makes it a u
 -------------------
 -------------------
 
-![image](https://github.com/user-attachments/assets/ed82ff69-2c08-4a90-8968-3b68ae6a8612)
+
+<img src="https://github.com/user-attachments/assets/ed82ff69-2c08-4a90-8968-3b68ae6a8612" alt="HTML5" width="500" height="300">
+
+
+
 
 
 | Badge Name         | Description                                     | Image URL                                 | Notes                                                              |
