@@ -17,7 +17,7 @@ These badges represent achievements and contributions within the platform, and s
 | **Ghost in the Net**| Leaves no trace; master of anonymity.          | [badge.example.com/ghost.png](badge.example.com/ghost.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Code Breaker**   | Skilled in cryptography and code cracking.       | [badge.example.com/code_breaker.png](badge.example.com/code_breaker.png) | **Hacker Status Icon (Large, Banner-Ready)**                           |
 | **Red Team Lead**  | Experienced in leading red team exercises.      | [badge.example.com/red_team.png](badge.example.com/red_team.png) |                                                                    |
-| **Blue Team Defender**| Expert in defensive security strategies.       | [badge.example.com/blue_team.png](badge.example.com/blue_team.png) |                                                                    |
+| **Blue Team Defender**| Expert in defensive security strategies.       | Etterforsker Forsvar Kriminalitet og Forfølgelse Bedrageri |                                                                    |
 | **Pentester Pro**   | Certified penetration tester.                 | [badge.example.com/pentester.png](badge.example.com/pentester.png) |                                                                    |
 | ...               | ...                                             | ...                                         | ...                                                                  |
 
