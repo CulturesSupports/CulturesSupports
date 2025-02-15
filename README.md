@@ -2,7 +2,7 @@
 
 ... (Previous sections remain the same)
 
-### 5. User Profile Badges & Hacker Status Icons
+### 5. Operation Hacker Core
 
 ![image](https://github.com/user-attachments/assets/ed82ff69-2c08-4a90-8968-3b68ae6a8612)
 
