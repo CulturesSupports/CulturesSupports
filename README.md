@@ -8,7 +8,9 @@
 ### 5. Operation Embezzlement
 
 
-Embezzlement is a type of financial crime where someone misuses or takes assets entrusted to them, typically for personal gain. This crime occurs in various settings, usually within businesses where employees can access company funds.
+Embezzlement is a type of financial crime where someone misuses or takes assets entrusted to them, typically for personal gain. This crime occurs in various settings, usually within businesses where employees can access company funds , but dont doing legal operation into market or have cordinated felony accepted routines or going become a friends of workplace.
+
+they acting as a malicious target forfeiture laundering assets and swindle with burglary and attempting further acting upon scams like knowing people and tell people deciviing lies to conduct secret theft and scams and felony frauds
 
 Unlike simple theft, embezzlement involves a breach of trust, which makes it a unique and serious criminal offense. Familiarity with embezzlement can help individuals recognize and prevent it in their workplaces.
 
