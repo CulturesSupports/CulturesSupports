@@ -39,4 +39,4 @@ Uncover Political Friendly Fraudsters
 
 ### Sending the Corrupt to DEath penality 
 
-
+Operation takedown of corrupt false elite who bribed years and swindled more than others
