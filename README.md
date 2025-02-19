@@ -1,9 +1,9 @@
 
-### Usa Went Shutdown
+- Usa Went Shutdown
 
-### Netherland is Shutdown
+- Netherland is Shutdown
 
-### Moved out of Us and Netherland
+- Moved out of Us and Netherland
 
 
 
