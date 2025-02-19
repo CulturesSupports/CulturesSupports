@@ -1,10 +1,19 @@
 
-Remmbee Pandemic on rice of Birdflu
+
+
+Remember Pandemic on rice of Birdflu
 
 - Animals will die because of
 Bird-flu 
 
+
 🦠💉
+
+This Pandemic Kills Your loved dogs and birds
+dies of Bird flu 
+
+People is also vurnebal for death eathing
+bird flu meals
 
 -----------
 ------------
