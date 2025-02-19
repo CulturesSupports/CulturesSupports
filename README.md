@@ -13,6 +13,29 @@ feeding json into synhtesis
 speaking language of sapmi
 
 
+
+~ this unfold tools to
+regain learning language
+of sapmi native language
+
+- enable tts and json
+- to download text to speech
+  text
+  into audio
+  books and expand options
+  to run 30 - 60 min podcast
+  stories in computer sapmi
+  tts translations
+
+
+  -----/
+  we build a tool to communicate ma community of fitting expansions
+
+- With Sapmi TTs 
+
+
+  -----/
+
 -----------
 ------------
 --------------
