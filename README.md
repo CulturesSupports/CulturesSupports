@@ -1,3 +1,11 @@
+
+ /_/\
+( o.o ) 
+ > ^ <
+
+
+----------
+
 To find and run a Jupyter Lab repository, follow these steps:
 
 ### **1. Find a Jupyter Lab Repository**
