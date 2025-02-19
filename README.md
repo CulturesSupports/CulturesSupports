@@ -1,7 +1,7 @@
 
   -- /_/\
  -- ( o.o ) 
--- > ^ <
+ = > ^ <
 ----------
 
 To find and run a Jupyter Lab repository, follow these steps:
