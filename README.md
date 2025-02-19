@@ -1,7 +1,10 @@
 
 Remmbee Pandemic on rice of Birdflu
 
-- Animals will die 
+- Animals will die because of
+Bird-flu 
+
+🦠💉
 
 -----------
 ------------
