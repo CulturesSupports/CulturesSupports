@@ -5,7 +5,12 @@
 - to unfold computers
 speak sapmi language 
 
+- we embrace use tts technology and unfold respect to native language
+and bring speech synthesezis
+to application
 
+feeding json into synhtesis
+speaking language of sapmi
 
 
 -----------
