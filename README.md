@@ -4,8 +4,11 @@
 - Netherland is Shutdown
 
 - Moved out of Us and Netherland
-
-
+- Moved Out of Quwait and Saudi Arabic
+- Moved out of Israel
+- Moved out of England
+- Moved out of Dutchland
+- Moved out of Malibu and Hawaii
 
 
 ----------
