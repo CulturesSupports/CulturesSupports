@@ -12,6 +12,10 @@ Bird-flu
 This Pandemic Kills Your loved dogs and birds
 dies of Bird flu 
 
+Cows and Animals of pigs and cows 
+will also die in masses
+
+
 People is also vurnebal for death eathing
 bird flu meals
 
