@@ -33,4 +33,11 @@ jupyter lab
 ```
 This will open JupyterLab in your web browser.
 
-Would you like me to find a specific JupyterLab repo for you? 🚀
+
+------------------------------
+
+ specific JupyterLab is a improved and easier use case of JupyterNoteBook 🚀
+
+.........................
+
+Use JupyterLAB for Pro Python
