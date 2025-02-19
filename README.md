@@ -1,23 +1,12 @@
 
 
-
-Remember Pandemic on rice of Birdflu
-
-- Animals will die because of
-Bird-flu 
-
-
-🦠💉
-
-This Pandemic Kills Your loved dogs and birds
-dies of Bird flu 
-
-Cows and Animals of pigs and cows 
-will also die in masses
+- We make tts apps
+- sapmi tts translations
+- to unfold computers
+speak sapmi language 
 
 
-People is also vurnebal for death eathing
-bird flu meals
+
 
 -----------
 ------------
