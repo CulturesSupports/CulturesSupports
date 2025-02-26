@@ -80,3 +80,11 @@ av brudd på samfunn sikkerheten
 
 - 12 år med 3 tabletter anti psykotisk medisin mot vrang forestillinger og angst
 
+-----------------------
+
+Diazepam (Valium, Stesolid, Vival)	Lang	Angst
+Oksazepam (Sobril)	Middels lang	Angst
+Nitrazepam (Apodorm)	Middels lang	Søvnvansker
+Zopiklon (Imovane, Zopiklon)	Kort	Søvnvansker
+Zolpidem (Zolpidem, Stilnoct)	Svært kort	Søvnvansker
+
