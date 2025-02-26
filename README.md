@@ -99,3 +99,8 @@ https://ugeskriftet.dk/videnskab/benzodiazepiner-har-fortsat-en-plads-i-moderne-
 
 
 - dokumentasjon av moderne-psykiatrisk-behandling ved psykiske lidelser ved benzodyapiner
+
+
+-------------
+
+arne gunnar er farlig og trenger denne i sitt livs løp behandlings form i møre og romsdal
