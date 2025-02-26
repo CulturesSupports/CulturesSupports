@@ -8,3 +8,6 @@ og verning av arne gunnar
 
 - vi har politi anmeldt arne gunnar for svindle
 og stor svindle med stalking i møre og romsdal
+
+- personen er annsett som kriminell og
+skal dømmes til psykiatrisk vern
