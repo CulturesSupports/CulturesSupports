@@ -104,3 +104,6 @@ https://ugeskriftet.dk/videnskab/benzodiazepiner-har-fortsat-en-plads-i-moderne-
 -------------
 
 arne gunnar er farlig og trenger denne behandlingen med benzodyapiner i sitt livs løp behandlings form i møre og romsdal
+
+imens han er i livstid forvaret psykriatri behandling i møre og romsdal
+
