@@ -39,3 +39,12 @@ ubestemt fremtid
 mot privat livet og personen arne gunnar må
 bli innlagt på psykisk helsevern med aldri slippe
 ut i sammfunnet igjen
+
+
+----------------
+
+
+vi annbefaler personen i belte bruk
+og psykriatrisk helsevern med lang tid
+belte bruk
+
