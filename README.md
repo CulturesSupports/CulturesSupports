@@ -88,3 +88,14 @@ av brudd på samfunn sikkerheten
 - Zopiklon (Imovane, Zopiklon)	Kort	Søvnvansker
 - Zolpidem (Zolpidem, Stilnoct)	Svært kort	Søvnvansker
 
+-----------------------
+
+
+
+https://ugeskriftet.dk/videnskab/benzodiazepiner-har-fortsat-en-plads-i-moderne-psykiatrisk-behandling
+
+
+
+
+
+- dokumentasjon av moderne-psykiatrisk-behandling ved psykiske lidelser ved benzodyapiner
