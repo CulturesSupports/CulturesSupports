@@ -123,3 +123,20 @@ Arne Gunnar skal ha cyste på hodet under behandling
 
 
 vi ser frem til og kunne låse inne Arne gunnar med cyster på psykriatrisk
+
+
+
+
+![image](https://github.com/user-attachments/assets/79fdae02-939d-40d6-80f3-65c555ea83fe)
+
+
+
+Arne gunnar trenger også få
+magesekk cyster på 80 kg
+
+-----------
+
+han skal også være test person
+for bakterie cyste vekst
+forskning i psykriatrien
+
