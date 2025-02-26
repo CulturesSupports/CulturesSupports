@@ -1,180 +1,33 @@
-# JavaScript Build Guide
+# Shim (Computing)
 
-Welcome to the JavaScript Build Guide! This README provides an overview of how to set up and manage a modern JavaScript build process using popular tools and best practices.
+In computer programming, a **shim** is a library that transparently intercepts API calls and changes the arguments passed, handles the operation itself, or redirects the operation elsewhere. Shims can be used to support an old API in a newer environment or a new API in an older environment. Shims can also be used for running programs on different software platforms than they were developed for.
 
-## Table of Contents
+## Purpose
+- **Support older APIs**: When the behavior of an API changes, causing compatibility issues for older applications that rely on the older functionality.
+- **Support newer APIs**: A library that brings a new API to an older environment, using only the means of that environment.
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
-- [Development Tools](#development-tools)
-  - [Node.js and npm](#nodejs-and-npm)
-  - [Build Tools](#build-tools)
-  - [Linters](#linters)
-  - [Testing Frameworks](#testing-frameworks)
-- [Build Process](#build-process)
-  - [Configuration](#configuration)
-  - [Running the Build](#running-the-build)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+## Examples
+- **Web Polyfills**: Implement newer web standards using older standards and JavaScript if the newer standard is not available in a given web browser.
+- **AppleTalk on Macintosh**: AppleTalk was re-implemented as an OpenTransport "stack" and then re-implemented as an API shim to support legacy Mac programs.
+- **Microsoft Windows Application Compatibility Toolkit (ACT)**: Shims simulate the behavior of older versions of Windows for legacy applications that rely on deprecated functionality.
+- **bind.so**: A shim library for Linux that allows any application, regardless of permissions, to bind to a listening socket or specify an outgoing IP address using the LD_PRELOAD mechanism.
+- **Type Tunnel Pattern**: A generic interface layer uses a family of shims to translate a heterogeneous set of types to a single primitive type used by an underlying API.
 
-## Introduction
+## See Also
+- **Adapter Pattern**
+- **Application Virtualization**
+- **Driver Wrapper**
+- **Glide Wrapper**
+- **Glue Code**
+- **Stub (Computer Science)**
+- **Thunk (Compatibility Mapping)**
+- **Windows on Windows (WoW)**
+- **Wrapper Function**
+- **Wrapper Library**
 
-This guide aims to simplify the process of setting up a modern JavaScript build environment. Whether you're building a simple web application or a complex system, having an efficient build process is crucial for development and deployment.
+For more detailed information, you can refer to the 
 
-## Prerequisites
+[Wikipedia article on Shims](https://en.wikipedia.org/wiki/Shim_(computing)).
 
-Before starting, ensure you have the following installed:
+---
 
-- Node.js (v14 or higher)
-- npm (Node Package Manager)
-
-## Project Setup
-
-1. **Initialize the Project:**
-   ```bash
-   mkdir my-js-project
-   cd my-js-project
-   npm init -y
-   ```
-
-2. **Install Development Dependencies:**
-   ```bash
-   npm install --save-dev webpack webpack-cli babel-loader @babel/core @babel/preset-env eslint jest
-   ```
-
-## Development Tools
-
-### Node.js and npm
-
-Node.js is a JavaScript runtime that allows you to run JavaScript on the server side. npm is the default package manager for Node.js, used to manage project dependencies.
-
-### Build Tools
-
-#### Webpack
-
-Webpack is a powerful module bundler for JavaScript applications. It takes modules with dependencies and generates static assets representing those modules.
-
-- **Installation:**
-  ```bash
-  npm install --save-dev webpack webpack-cli
-  ```
-
-- **Configuration:**
-  Create a `webpack.config.js` file in the root of your project:
-  ```javascript
-  const path = require('path');
-
-  module.exports = {
-    entry: './src/index.js',
-    output: {
-      filename: 'bundle.js',
-      path: path.resolve(__dirname, 'dist'),
-    },
-    module: {
-      rules: [
-        {
-          test: /\.js$/,
-          exclude: /node_modules/,
-          use: {
-            loader: 'babel-loader',
-          },
-        },
-      ],
-    },
-  };
-  ```
-
-### Linters
-
-#### ESLint
-
-ESLint is a static code analysis tool used to identify problematic patterns in JavaScript code.
-
-- **Installation:**
-  ```bash
-  npm install --save-dev eslint
-  ```
-
-- **Configuration:**
-  Create a `.eslintrc.json` file:
-  ```json
-  {
-    "env": {
-      "browser": true,
-      "es2021": true
-    },
-    "extends": "eslint:recommended",
-    "parserOptions": {
-      "ecmaVersion": 12,
-      "sourceType": "module"
-    },
-    "rules": {
-      "indent": ["error", 2],
-      "quotes": ["error", "single"],
-      "semi": ["error", "always"]
-    }
-  }
-  ```
-
-### Testing Frameworks
-
-#### Jest
-
-Jest is a delightful JavaScript testing framework with a focus on simplicity.
-
-- **Installation:**
-  ```bash
-  npm install --save-dev jest
-  ```
-
-- **Configuration:**
-  Add the following to your `package.json`:
-  ```json
-  "scripts": {
-    "test": "jest"
-  }
-  ```
-
-## Build Process
-
-### Configuration
-
-Ensure your `package.json` includes scripts for building and running the project:
-```json
-"scripts": {
-  "build": "webpack",
-  "start": "webpack serve --open",
-  "test": "jest"
-}
-```
-
-### Running the Build
-
-To build your project, run:
-```bash
-npm run build
-```
-
-To start the development server, run:
-```bash
-npm start
-```
-
-To run tests, run:
-```bash
-npm test
-```
-
-## Deployment
-
-For deployment, ensure you build your project and deploy the contents of the `dist` directory to your server or hosting service.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
