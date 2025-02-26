@@ -17,3 +17,20 @@ skal dømmes til psykiatrisk vern
 
 - vi har funnet personen holder til i møre og romsdal
 og bedriver stalking og kriminalitet 
+
+- over flere år har denne personen
+drevet svindel og truet personer og
+stått for korrupsjon og svindel med
+helse og helbredelse bedrageri 
+
+- det er viktig for oss og verne
+denne farlige personen arne gunnar 
+
+- personen er alvorlig psykisk belastet
+og er til fare for andre og 
+personen driver makt utøvelse med
+stalking 
+
+- det er viktig for oss og få dømt personen 
+til psykriatrisk institusjon opphold på
+ubestemt fremtid
