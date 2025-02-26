@@ -14,3 +14,6 @@ skal dømmes til psykiatrisk vern
 
 
 - arne gunnar er psykiatrisk farlig person
+
+- vi har funnet personen holder til i møre og romsdal
+og bedriver stalking og kriminalitet 
