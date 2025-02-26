@@ -51,7 +51,22 @@ belte bruk
 
 --------
 
-personen har farlig psykoser 
+personen arne gunnar 
+har farlig psykoser 
+
+
+personen arne gunnar har behov for
+livstid helsevern
+
+------
+
+personen arne gunnar er utøver
+av brudd på samfunn sikkerheten
+
+--------
+
+
+
 
 
 
