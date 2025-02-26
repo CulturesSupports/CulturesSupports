@@ -7,3 +7,10 @@ Let me know how I can assist further!
 -------
 
 we stopping tecnical support
+
+----------
+
+
+
+- vi har politi anmeldt arne gunnar for svindle
+og stor svindle med stalking i møre og romsdal
