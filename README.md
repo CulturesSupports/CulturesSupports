@@ -32,5 +32,10 @@ personen driver makt utøvelse med
 stalking 
 
 - det er viktig for oss og få dømt personen 
-til psykriatrisk institusjon opphold på
+arne gunnar til psykriatrisk institusjon opphold på
 ubestemt fremtid
+
+- personen har drevet uforsvarlig trussel
+mot privat livet og personen arne gunnar må
+bli innlagt på psykisk helsevern med aldri slippe
+ut i sammfunnet igjen
