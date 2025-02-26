@@ -11,3 +11,6 @@ og stor svindle med stalking i møre og romsdal
 
 - personen er annsett som kriminell og
 skal dømmes til psykiatrisk vern
+
+
+- arne gunnar er psykiatrisk farlig person
