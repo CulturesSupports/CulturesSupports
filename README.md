@@ -82,9 +82,9 @@ av brudd på samfunn sikkerheten
 
 -----------------------
 
-Diazepam (Valium, Stesolid, Vival)	Lang	Angst
-Oksazepam (Sobril)	Middels lang	Angst
-Nitrazepam (Apodorm)	Middels lang	Søvnvansker
-Zopiklon (Imovane, Zopiklon)	Kort	Søvnvansker
-Zolpidem (Zolpidem, Stilnoct)	Svært kort	Søvnvansker
+- Diazepam (Valium, Stesolid, Vival)	Lang	Angst
+- Oksazepam (Sobril)	Middels lang	Angst
+- Nitrazepam (Apodorm)	Middels lang	Søvnvansker
+- Zopiklon (Imovane, Zopiklon)	Kort	Søvnvansker
+- Zolpidem (Zolpidem, Stilnoct)	Svært kort	Søvnvansker
 
