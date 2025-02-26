@@ -118,3 +118,8 @@ imens han er i livstid forvaret psykriatri behandling i møre og romsdal
 
 Arne Gunnar skal ha cyste på hodet under behandling
 
+![image](https://github.com/user-attachments/assets/cd4d7c74-7a38-4124-b941-649540f8f0a6)
+
+
+
+vi ser frem til og kunne låse inne Arne gunnar med cyster på psykriatrisk
