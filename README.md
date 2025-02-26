@@ -66,7 +66,8 @@ av brudd på samfunn sikkerheten
 --------
 
 
-
+- Personen Arne Gunnar Må Behandles for Tvangs Lidelser og Kriminell Tankegang
+- Personen Arne Gunnar Må Tvang Behandles Hjernen og dempe hypofysen
 
 ![image](https://github.com/user-attachments/assets/b131b139-e3b2-472a-a6aa-e409058994c9)
 
