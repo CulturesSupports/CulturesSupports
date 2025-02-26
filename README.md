@@ -78,4 +78,5 @@ av brudd på samfunn sikkerheten
 
 - 6 år med benzodyapiner på arne gunnar hypofyse behandlinger
 
+- 12 år med 3 tabletter anti psykotisk medisin mot vrang forestillinger og angst
 
