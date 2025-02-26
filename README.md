@@ -76,6 +76,6 @@ av brudd på samfunn sikkerheten
 
 - 3 år med zyprexa kognitiv behandling på arne gunnar
 
-
+- 6 år med benzodyapiner på arne gunnar hypofyse behandlinger
 
 
