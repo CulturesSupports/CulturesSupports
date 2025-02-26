@@ -1,3 +1,14 @@
+
+narkotika kriminalitet
+kokstad bergen 
+
+- hvitvasking og narkotika
+  lovbrudd
+---------
+
+
+
+
 Intensiv Etterforskning av kriminell
 i
 møre og romsdal 
