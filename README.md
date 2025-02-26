@@ -107,3 +107,14 @@ arne gunnar er farlig og trenger denne behandlingen med benzodyapiner i sitt liv
 
 imens han er i livstid forvaret psykriatri behandling i møre og romsdal
 
+
+
+------------
+
+
+![image](https://github.com/user-attachments/assets/faa2904b-9271-4b47-b0cc-f664f75fa6fe)
+
+
+
+Arne Gunnar skal ha cyste på hodet under behandling
+
