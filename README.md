@@ -72,7 +72,9 @@ av brudd på samfunn sikkerheten
 ![image](https://github.com/user-attachments/assets/b131b139-e3b2-472a-a6aa-e409058994c9)
 
 
+3 års perioder med histamin hjerne behandling og magnetisk sjokk puls hjerne aktivitet behandling
 
+- 3 år med zyprexa kognitiv behandling på arne gunnar
 
 
 
