@@ -57,7 +57,9 @@ If you or someone you know is dealing with mental health issues, it's important 
 
 
 
-# Hearing Voices ( Mental Paranoia )
+# Hearing Voices 
+----
+# Mental Paranoia 
 
 
 - important to self admitting conditions
