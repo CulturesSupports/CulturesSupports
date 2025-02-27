@@ -118,3 +118,22 @@ If you're interested in exploring more about Kundalini and chakras, there are ma
 
 
 
+
+
+----------
+----------
+----------
+
+
+# Mudra & Prana Healing
+
+
+Mudras are symbolic hand gestures used in yoga and meditation to channel energy and promote physical, mental, and spiritual well-being. Here are a few mudras that can help calm and energize the mind:
+
+1. **Gyan Mudra**: Touch the tip of your thumb to the tip of your index finger while keeping the other three fingers straight. This mudra is known to enhance concentration and memory.
+2. **Prana Mudra**: Touch the tips of your thumb, ring finger, and little finger together while keeping the other two fingers straight. This mudra is believed to increase vitality and reduce fatigue.
+3. **Prithvi Mudra**: Touch the tip of your thumb to the tip of your ring finger while keeping the other three fingers straight. This mudra is associated with strength and vitality.
+
+
+
+
