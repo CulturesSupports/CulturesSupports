@@ -6,3 +6,35 @@ The term "mental terrorism" isn't widely recognized in psychology or psychiatry,
 Scammers use psychological tactics to manipulate their victims, creating a sense of urgency, fear, or trust to exploit them [B](https://www.verywellmind.com/emotional-responses-scammed-8708252?copilot_analytics_metadata=eyJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiJIb2gzVXhoaGpDbWpwOWpCdjF5QW0iLCJldmVudEluZm9fbWVzc2FnZUlkIjoibkNOV0FYSmJzc1B0c1RmYXRiOGI3IiwiZXZlbnRJbmZvX2NsaWNrU291cmNlIjoiY2l0YXRpb25MaW5rIiwiZXZlbnRJbmZvX2NsaWNrRGVzdGluYXRpb24iOiJodHRwczpcL1wvd3d3LnZlcnl3ZWxsbWluZC5jb21cL2Vtb3Rpb25hbC1yZXNwb25zZXMtc2NhbW1lZC04NzA4MjUyIn0%3D&citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1). This manipulation can be seen as a form of "mental terrorism" because it involves using psychological pressure to achieve a harmful goal.
 
 If you or someone you know has been affected by a scam, it's important to seek support from mental health professionals and report the scam to the appropriate authorities. Remember, it's not your fault, and help is available.
+
+
+
+
+
+----------
+------------
+-------------
+-----------------
+
+
+
+
+# Psychosis
+
+
+
+Sure, I can provide you with a list of different types of psychosis and related conditions:
+
+1. **Schizophrenia**: A chronic brain disorder that affects a person's ability to think clearly, manage emotions, make decisions, and relate to others.
+2. **Bipolar Disorder**: A mental health condition that causes extreme mood swings, including emotional highs (mania or hypomania) and lows (depression), which can sometimes include psychotic episodes.
+3. **Schizoaffective Disorder**: A mental health condition that includes symptoms of both schizophrenia and a mood disorder (such as depression or bipolar disorder).
+4. **Brief Psychotic Disorder**: A sudden, short-term display of psychotic behavior, such as hallucinations or delusions, which can last from a day to a month.
+5. **Delusional Disorder**: A condition characterized by the presence of one or more delusions for at least a month.
+6. **Psychotic Depression**: A major depressive disorder accompanied by some form of psychosis, such as hallucinations or delusions.
+7. **Substance-Induced Psychotic Disorder**: Psychosis that results from the use of alcohol, drugs, or exposure to toxins.
+8. **Postpartum Psychosis**: A rare but severe form of mental illness that can affect new mothers shortly after childbirth.
+
+
+
+
+
