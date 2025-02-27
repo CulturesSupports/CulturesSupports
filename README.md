@@ -89,7 +89,7 @@ If you or someone you know is experiencing these symptoms, it's important to see
 
 - Best Chakra Treatment
 
-- Help Cuore many illnesses
+- Help Cure many illnesses with mental health
 
 - Balance Chackras Root to Chrown Shakra
 
