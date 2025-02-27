@@ -1,5 +1,5 @@
 
-# Mental Terrorism
+### Mental Terrorism
 
 The term "mental terrorism" isn't widely recognized in psychology or psychiatry, but it seems to refer to the psychological manipulation and coercion that can occur in various contexts, including scams. Scams can have a significant impact on mental health, leading to emotional distress, anxiety, depression, and even PTSD [A] [B][C] Victims often feel embarrassed, ashamed, and guilty, which can exacerbate their emotional suffering [A]  [B]
 
@@ -20,7 +20,7 @@ If you or someone you know has been affected by a scam, it's important to seek s
 
 
 
-# Psychosis
+### Psychosis
 
 
 
@@ -42,7 +42,7 @@ Sure, I can provide you with a list of different types of psychosis and related 
 -------------
 -----------------
 
-# Mental Delusions
+### Mental Delusions
 
 Mental delusions are false beliefs that are strongly held despite evidence to the contrary. They can be a symptom of various mental health disorders such as schizophrenia, bipolar disorder, and severe depression. It's important for someone experiencing delusions to seek professional help, as these conditions can significantly impact their daily life and well-being.
 
@@ -57,9 +57,9 @@ If you or someone you know is dealing with mental health issues, it's important 
 
 
 
-# Hearing Voices 
-----
-# Mental Paranoia 
+### Hearing Voices 
+
+### Mental Paranoia 
 
 
 - important to self admitting conditions
