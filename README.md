@@ -1,5 +1,5 @@
 
-
+# Mental Terrorism
 
 The term "mental terrorism" isn't widely recognized in psychology or psychiatry, but it seems to refer to the psychological manipulation and coercion that can occur in various contexts, including scams. Scams can have a significant impact on mental health, leading to emotional distress, anxiety, depression, and even PTSD [A] [B][C] Victims often feel embarrassed, ashamed, and guilty, which can exacerbate their emotional suffering [A]  [B]
 
