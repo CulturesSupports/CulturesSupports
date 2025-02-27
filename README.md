@@ -46,5 +46,32 @@ Sure, I can provide you with a list of different types of psychosis and related 
 
 Mental delusions are false beliefs that are strongly held despite evidence to the contrary. They can be a symptom of various mental health disorders such as schizophrenia, bipolar disorder, and severe depression. It's important for someone experiencing delusions to seek professional help, as these conditions can significantly impact their daily life and well-being.
 
-If you or someone you know is dealing with mental health issues, it's important to reach out to a healthcare provider for support and guidance. They can offer the appropriate treatment and care to manage these symptoms effectively. If you have any questions about mental health or need more information, feel free to ask.
+If you or someone you know is dealing with mental health issues, it's important to reach out to a healthcare provider for help and guidance to correct health care treatment and psychology evaluations of personal disorder symptoms . They can offer the appropriate treatment and care to manage these symptoms effectively. If you have any questions about mental health or need more information, feel free to ask.
+
+
+
+----------
+------------
+-------------
+-----------------
+
+
+
+# Hearing Voices ( Mental Paranoia )
+
+
+- important to self admitting conditions
+and symptoms
+
+Mental illnesses can manifest in various ways, including changes in personality, hearing voices, and experiencing mania. Here are some key points to consider:
+
+1. **Personality Disorders**: These are long-term patterns of behavior and inner experiences that deviate significantly from cultural expectations. Examples include Borderline Personality Disorder, Antisocial Personality Disorder, and Paranoid Personality Disorder [A]
+
+2. **Hearing Voices**: This can be a symptom of several mental health conditions, including schizophrenia and severe depression. It involves hearing sounds or voices that others do not hear [B]
+
+3. **Mania**: This is a state of abnormally elevated mood, energy, and activity levels. It is often associated with Bipolar Disorder and can include symptoms like excessive talking, grandiose ideas, and reduced need for sleep [C]
+
+If you or someone you know is experiencing these symptoms, it's important to seek professional help. Mental health professionals can provide the appropriate diagnosis and treatment to manage these conditions effectively.
+
+
 
