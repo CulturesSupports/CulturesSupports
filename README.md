@@ -37,5 +37,14 @@ Sure, I can provide you with a list of different types of psychosis and related 
 
 
 
+----------
+------------
+-------------
+-----------------
 
+# Mental Delusions
+
+Mental delusions are false beliefs that are strongly held despite evidence to the contrary. They can be a symptom of various mental health disorders such as schizophrenia, bipolar disorder, and severe depression. It's important for someone experiencing delusions to seek professional help, as these conditions can significantly impact their daily life and well-being.
+
+If you or someone you know is dealing with mental health issues, it's important to reach out to a healthcare provider for support and guidance. They can offer the appropriate treatment and care to manage these symptoms effectively. If you have any questions about mental health or need more information, feel free to ask.
 
