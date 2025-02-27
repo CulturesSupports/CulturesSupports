@@ -86,11 +86,18 @@ If you or someone you know is experiencing these symptoms, it's important to see
 
 
 ### Kundalini Yoga 
-is Best Chakra Treatment
 
-### Help Cuore many illnesses
+- Best Chakra Treatment
 
-### Balance Chackras Root to Chrown Shakra
+- Help Cuore many illnesses
+
+- Balance Chackras Root to Chrown Shakra
+
+- Open Chi Energy Lines from Root Shakra to Brain Chrown Shakra 
+
+- Make clean body fluids 
+
+----------------
 
 The concept of Kundalini and chakras is deeply rooted in ancient Indian spiritual traditions. Here's a brief overview:
 
